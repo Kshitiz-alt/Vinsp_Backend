@@ -4,7 +4,6 @@ import cors from 'cors'
 import router from './routes/zipFold';
 
 const app = express();
-const port = 5000
 
 app.use(cors())
 
@@ -14,4 +13,4 @@ app.use(express.json());
 app.use(router);
 
 // Other routes, static files, etc.
-app.listen(port, () => console.log('Server running on port 5173'));
+app.listen(process.env.PORT, () => console.log('Server running on https://m2-remastered.vercel.app/'));
