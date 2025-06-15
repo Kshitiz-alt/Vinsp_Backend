@@ -2,7 +2,6 @@
   "name": "dlmodule",
   "version": "1.0.0",
   "main": "index.ts",
-  "type": "module",
   "scripts": {
     "dev": "ts-node-dev --respawn ./src/index.ts",
      "build": "npm install --production=false && tsc",
