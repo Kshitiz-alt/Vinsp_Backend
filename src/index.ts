@@ -1,4 +1,5 @@
 import express from 'express';
+import 'dotenv/config';
 
 import cors from 'cors'
 import router from './routes/zipFold';
@@ -13,4 +14,4 @@ app.use(express.json());
 app.use(router);
 
 // Other routes, static files, etc.
-app.listen(process.env.PORT, () => console.log('Server running on https://m2-remastered.vercel.app/'));
+app.listen(process.env.PORT , () => console.log(`Server running on port:${process.env.PORT }`));
