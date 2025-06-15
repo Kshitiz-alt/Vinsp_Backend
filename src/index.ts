@@ -6,7 +6,13 @@ import router from './routes/zipFold';
 
 const app = express();
 
-app.use(cors())
+app.use(cors({
+    origin: process.env.FRONTEND_URL,
+    methods: ['GET', 'POST'],
+    credentials: true
+}));
+
+const port = process.env.PORT || 5000;
 
 app.use(express.json());
 
@@ -14,4 +20,4 @@ app.use(express.json());
 app.use(router);
 
 // Other routes, static files, etc.
-app.listen(process.env.PORT , () => console.log(`Server running on port:${process.env.PORT }`));
+app.listen(port, () => console.log(`Server running on port:${port}`));
