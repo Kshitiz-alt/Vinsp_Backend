@@ -11,6 +11,7 @@ app.use(cors({
     methods: ['GET', 'POST'],
     credentials: true
 }));
+// app.use(cors())
 
 const port = process.env.PORT || 5000;
 
