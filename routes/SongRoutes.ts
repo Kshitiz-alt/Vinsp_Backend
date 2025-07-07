@@ -9,4 +9,4 @@ SongsRoutes.get('/:id',getSongsbyID);
 SongsRoutes.get('/',getSongs);
 
 
-export default SongsRoutes
+export default SongsRoutes;

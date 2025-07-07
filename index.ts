@@ -20,8 +20,6 @@ const port = process.env.PORT || 5000;
 
 app.use(express.json());
 
-app.use('/images', express.static('public/images'))
-
 app.use('/api/search',SearchRoute)
 app.use('/api/albums',AlbumRoutes)
 app.use('/api/songs', SongsRoutes)

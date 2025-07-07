@@ -7,7 +7,7 @@ const zip = express.Router();
 type songTypes = {
   title: string
   audio: string
-}
+};
 // zip.use(express.json());
 zip.post("/download", async (req:Request, res:Response) => {
   const { songs } = req.body as { songs : songTypes[]};
