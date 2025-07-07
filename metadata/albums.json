@@ -1,0 +1,24 @@
+{
+  "album": [
+    {
+      "id": 1001,
+      "title": "Genshin Impact",
+      "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg"
+    },
+   {
+      "id": 1002,
+      "title": "The Weeknd",
+      "image": "http://localhost:5000/images/The%20Weeknd.jpg"
+    },
+    {
+      "id":1003,
+      "title":"Imagine Dragons",
+      "image":"http://localhost:5000/images/Imagine-Dragons.jpg"
+    },
+    {
+      "id":1004,
+      "title":"Alan Walker",
+      "image":"http://localhost:5000/images/Alan%20Walker.jpg"
+    }
+  ]
+}

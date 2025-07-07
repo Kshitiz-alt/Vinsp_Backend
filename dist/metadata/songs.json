@@ -1,0 +1,751 @@
+{
+    "song": [
+        {
+            "id": 101,
+            "title": "What a Hopeful Voyage",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/01%20What%20a%20Hopeful%20Voyage.mp3",
+            "duration": 169
+        },
+        {
+            "id": 102,
+            "title": "Vast and Blue",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/02%20Vast%20and%20Blue.mp3",
+            "duration": 142
+        },
+        {
+            "id": 103,
+            "title": "Mesmerizing Waves",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/03%20Mesmerizing%20Waves.mp3",
+            "duration": 158
+        },
+        {
+            "id": 104,
+            "title": "Journey into Sweet Dreams",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/04%20Journey%20into%20Sweet%20Dreams.mp3",
+            "duration": 150
+        },
+        {
+            "id": 105,
+            "title": "Whispering Seabreeze",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/05.%20Whispering%20Seabreeze.mp3",
+            "duration": 103
+        },
+        {
+            "id": 106,
+            "title": "Sunshine Beach",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/06%20Sunshine%20Beach.mp3",
+            "duration": 111
+        },
+        {
+            "id": 107,
+            "title": "Ariel's Footprints",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/07%20Ariel's%20Footprints.mp3",
+            "duration": 85
+        },
+        {
+            "id": 108,
+            "title": "Melody of Jellyfish",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/08%20Melody%20of%20Jellyfish.mp3",
+            "duration": 136
+        },
+        {
+            "id": 109,
+            "title": "Comforting Quietude",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/09%20Comforting%20Quietude.mp3",
+            "duration": 57
+        },
+        {
+            "id": 110,
+            "title": "Old Tales Preserved",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/10%20Old%20Tales%20Preserved.mp3",
+            "duration": 89
+        },
+        {
+            "id": 111,
+            "title": "Cautious Explorers",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/11%20Cautious%20Explorers.mp3",
+            "duration": 56
+        },
+        {
+            "id": 112,
+            "title": "In Stories of Fading Light",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/12%20In%20Stories%20of%20Fading%20Light.mp3",
+            "duration": 65
+        },
+        {
+            "id": 113,
+            "title": "Cozy Company",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/13%20Cozy%20Company.mp3",
+            "duration": 134
+        },
+        {
+            "id": 114,
+            "title": "Reminiscence of the Old Days",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/14%20Reminiscence%20of%20the%20Old%20Days.mp3",
+            "duration": 62
+        },
+        {
+            "id": 115,
+            "title": "Faraway Solicitude",
+            "artist": "HOYO-MIX",
+            "albumId": 1001,
+            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg",
+            "audio": "http://RestAPIpull.b-cdn.net/audio/15%20Faraway%20Solicitude.mp3",
+            "duration": 136
+        },
+        {
+            "id": 116,
+            "title": "Gone (Explicit)",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Gone%20(Explicit).mp3",
+            "duration": 486
+        },
+        {
+            "id": 117,
+            "title": "Heaven Or Las Vegas",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Heaven%20Or%20Las%20Vegas.mp3",
+            "duration": 353
+        },
+        {
+            "id": 118,
+            "title": "High For This",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/High%20For%20This.mp3",
+            "duration": 247
+        },
+        {
+            "id": 119,
+            "title": "Life Of The Party",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Life%20Of%20The%20Party.mp3",
+            "duration": 296
+        },
+        {
+            "id": 120,
+            "title": "Lonely Star (Explicit)",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Lonely%20Star%20(Explicit).mp3",
+            "duration": 349
+        },
+        {
+            "id": 121,
+            "title": "The Birds Pt. 2 (Explicit)",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Birds%20Pt.%202%20(Explicit).mp3",
+            "duration": 350
+        },
+        {
+            "id": 122,
+            "title": "The Party & The After Party (Explicit)",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Party%20&amp;%20The%20After%20Party%20(Explicit).mp3",
+            "duration": 459
+        },
+        {
+            "id": 123,
+            "title": "The Weeknd - Coming Down",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Coming%20Down.mp3",
+            "duration": 300
+        },
+        {
+            "id": 124,
+            "title": "The Weeknd - D.D.",
+            "artist": "The Weeknd",
+            "albumId": 1002,
+            "image": "http://localhost:5000/images/The%20Weeknd.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20D.D..mp3",
+            "duration": 249
+        },
+        {
+            "id": 125,
+            "title": "Wrecked",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Wrecked.mp3",
+            "duration": 240
+        },
+        {
+            "id": 126,
+            "title": "Enemy",
+            "artist": "Imagine Dragons, JID",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20_JID%20-%20Enemy.mp3",
+            "duration": 170
+        },
+        {
+            "id": 127,
+            "title": "Amsterdam",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Amsterdam.mp3",
+            "duration": 242
+        },
+        {
+            "id": 128,
+            "title": "Believer",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Believer.mp3",
+            "duration": 216
+        },
+        {
+            "id": 129,
+            "title": "Birds",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Birds.mp3",
+            "duration": 218
+        },
+        {
+            "id": 130,
+            "title": "Bleeding Out",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Bleeding%20Out.mp3",
+            "duration": 221
+        },
+        {
+            "id": 131,
+            "title": "Boomerang",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Boomerang.mp3",
+            "duration": 187
+        },
+        {
+            "id": 132,
+            "title": "Bullet In A Gun",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Bullet%20In%20A%20Gun.mp3",
+            "duration": 205
+        },
+        {
+            "id": 133,
+            "title": "Burn Out",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Burn%20Out.mp3",
+            "duration": 275
+        },
+        {
+            "id": 134,
+            "title": "Cool Out",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Cool%20Out.mp3",
+            "duration": 217
+        },
+        {
+            "id": 135,
+            "title": "Dancing In The Dark",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Dancing%20In%20The%20Dark.mp3",
+            "duration": 233
+        },
+        {
+            "id": 136,
+            "title": "Demons",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Demons.mp3",
+            "duration": 175
+        },
+        {
+            "id": 137,
+            "title": "Digital",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Digital.mp3",
+            "duration": 201
+        },
+        {
+            "id": 138,
+            "title": "Follow You",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Follow%20You.mp3",
+            "duration": 175
+        },
+        {
+            "id": 139,
+            "title": "Gold",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Gold.mp3",
+            "duration": 216
+        },
+        {
+            "id": 140,
+            "title": "Hear Me",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Hear%20Me.mp3",
+            "duration": 232
+        },
+        {
+            "id": 141,
+            "title": "I Bet My Life",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20I%20Bet%20My%20Life.mp3",
+            "duration": 192
+        },
+        {
+            "id": 142,
+            "title": "I'll Make It Up To You",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20I'll%20Make%20It%20Up%20To%20You.mp3",
+            "duration": 358
+        },
+        {
+            "id": 143,
+            "title": "It's Time",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20It's%20Time.mp3",
+            "duration": 242
+        },
+        {
+            "id": 144,
+            "title": "Love",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Love.mp3",
+            "duration": 164
+        },
+        {
+            "id": 145,
+            "title": "Machine",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Machine.mp3",
+            "duration": 181
+        },
+        {
+            "id": 146,
+            "title": "Mouth Of The River",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Mouth%20Of%20The%20River.mp3",
+            "duration": 221
+        },
+        {
+            "id": 147,
+            "title": "Natural",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Natural.mp3",
+            "duration": 190
+        },
+        {
+            "id": 148,
+            "title": "Next To Me",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Next%20To%20Me.mp3",
+            "duration": 230
+        },
+        {
+            "id": 149,
+            "title": "On Top Of The World",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20On%20Top%20Of%20The%20World.mp3",
+            "duration": 189
+        },
+        {
+            "id": 150,
+            "title": "Only",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Only.mp3",
+            "duration": 182
+        },
+        {
+            "id": 151,
+            "title": "Radioactive",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Radioactive.mp3",
+            "duration": 186
+        },
+        {
+            "id": 152,
+            "title": "Real Life",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Real%20Life.mp3",
+            "duration": 247
+        },
+        {
+            "id": 153,
+            "title": "Rise Up",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Rise%20Up.mp3",
+            "duration": 231
+        },
+        {
+            "id": 154,
+            "title": "Shots",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Shots.mp3",
+            "duration": 232
+        },
+        {
+            "id": 155,
+            "title": "Smoke And Mirrors",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Smoke%20And%20Mirrors.mp3",
+            "duration": 260
+        },
+        {
+            "id": 156,
+            "title": "Start Over",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Start%20Over.mp3",
+            "duration": 186
+        },
+        {
+            "id": 157,
+            "title": "Stuck",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Stuck.mp3",
+            "duration": 190
+        },
+        {
+            "id": 158,
+            "title": "Thunder",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Thunder.mp3",
+            "duration": 204
+        },
+        {
+            "id": 159,
+            "title": "Walking The Wire",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Walking%20The%20Wire.mp3",
+            "duration": 231
+        },
+        {
+            "id": 160,
+            "title": "Warrior",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Warrior.mp3",
+            "duration": 319
+        },
+        {
+            "id": 161,
+            "title": "West Coast",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20West%20Coast.mp3",
+            "duration": 217
+        },
+        {
+            "id": 162,
+            "title": "Whatever It Takes",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Whatever%20It%20Takes.mp3",
+            "duration": 219
+        },
+        {
+            "id": 163,
+            "title": "Wrecked",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Wrecked.mp3",
+            "duration": 240
+        },
+        {
+            "id": 164,
+            "title": "Yesterday",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Yesterday.mp3",
+            "duration": 205
+        },
+        {
+            "id": 165,
+            "title": "Zero",
+            "artist": "Imagine Dragons",
+            "albumId": 1003,
+            "image": "http://localhost:5000/images/Imaging-Dragons.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20%E2%80%92%20Zero.mp3",
+            "duration": 213
+        },
+        {
+            "id": 166,
+            "title": "135",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20135.mp3",
+            "duration": 271
+        },
+        {
+            "id": 167,
+            "title": "Above The Sky",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Above%20The%20Sky.mp3",
+            "duration": 230
+        },
+        {
+            "id": 168,
+            "title": "All Falls Down (feat. Noah Cyrus with Digital Farm Animals)",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20All%20Falls%20Down%20(feat.%20Noah%20Cyrus%20with%20Digital%20Farm%20Animals).mp3",
+            "duration": 220
+        },
+        {
+            "id": 169,
+            "title": "Alone",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Alone.mp3",
+            "duration": 163
+        },
+        {
+            "id": 170,
+            "title": "Big Universe",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Big%20Universe.mp3",
+            "duration": 239
+        },
+        {
+            "id": 171,
+            "title": "Burn 2.0",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Burn%202.0.mp3",
+            "duration": 181
+        },
+        {
+            "id": 172,
+            "title": "Burn",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Burn.mp3",
+            "duration": 178
+        },
+        {
+            "id": 173,
+            "title": "Celebrate",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Celebrate.mp3",
+            "duration": 236
+        },
+        {
+            "id": 174,
+            "title": "Darkside (feat. Au Ra and Tomine Harket)",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Darkside%20(feat.%20Au%20Ra%20and%20Tomine%20Harket).mp3",
+            "duration": 239
+        },
+        {
+            "id": 175,
+            "title": "Dennis 2014 [K-391 Style]",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Dennis%202014%20[K-391%20Style].mp3",
+            "duration": 184
+        },
+        {
+            "id": 176,
+            "title": "Diamond Heart (feat. Sophia Somajo)",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Diamond%20Heart%20(feat.%20Sophia%20Somajo).mp3",
+            "duration": 218
+        },
+        {
+            "id": 177,
+            "title": "Different World feat. Sofia Carson, K-391 & CORSAK (Lyric Video)",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Different%20World%20feat.%20Sofia%20Carson,%20K-391%20&%20CORSAK%20(Lyric%20Video).mp3",
+            "duration": 222
+        },
+        {
+            "id": 178,
+            "title": "Energy",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Energy.mp3",
+            "duration": 216
+        },
+        {
+            "id": 179,
+            "title": "Fade",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Fade%20%5BNCS%20Release%5D.mp3",
+            "duration": 250
+        },
+        {
+            "id": 180,
+            "title": "Faded",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Faded.mp3",
+            "duration": 212
+        },
+        {
+            "id": 181,
+            "title": "Flying Dreams",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Flying%20Dreams.mp3",
+            "duration": 158
+        },
+        {
+            "id": 182,
+            "title": "Force",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Force%20%5BNCS%20Release%5D.mp3",
+            "duration": 241
+        },
+        {
+            "id": 183,
+            "title": "Golden Alley",
+            "artist": "Alan Walker",
+            "albumId": 1004,
+            "image": "http://localhost:5000/images/Alan%20Walker.jpg",
+            "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Golden%20Alley.mp3",
+            "duration": 270
+        }
+    ]
+}

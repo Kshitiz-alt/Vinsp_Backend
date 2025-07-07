@@ -2,14 +2,14 @@ import express, { Request, Response } from "express";
 import archiver from "archiver";
 import axios from "axios";
 
-const router = express.Router();
+const zip = express.Router();
 
 type songTypes = {
   title: string
   audio: string
 }
-// router.use(express.json());
-router.post("/api/download", async (req:Request, res:Response) => {
+// zip.use(express.json());
+zip.post("/download", async (req:Request, res:Response) => {
   const { songs } = req.body as { songs : songTypes[]};
   const archive = archiver("zip", { zlib: { level: 9 } });
 
@@ -37,4 +37,4 @@ router.post("/api/download", async (req:Request, res:Response) => {
   console.log("recieved songs", songs);
 });
 
-export default router;
+export default zip;

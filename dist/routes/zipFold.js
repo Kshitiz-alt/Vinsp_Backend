@@ -6,9 +6,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const archiver_1 = __importDefault(require("archiver"));
 const axios_1 = __importDefault(require("axios"));
-const router = express_1.default.Router();
-// router.use(express.json());
-router.post("/api/download", async (req, res) => {
+const zip = express_1.default.Router();
+// zip.use(express.json());
+zip.post("/download", async (req, res) => {
     const { songs } = req.body;
     const archive = (0, archiver_1.default)("zip", { zlib: { level: 9 } });
     res.attachment("playlist.zip");
@@ -28,4 +28,4 @@ router.post("/api/download", async (req, res) => {
     await archive.finalize();
     console.log("recieved songs", songs);
 });
-exports.default = router;
+exports.default = zip;
