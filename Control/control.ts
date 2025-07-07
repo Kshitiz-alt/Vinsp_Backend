@@ -3,7 +3,7 @@ import dotenv from "dotenv"
 
 import songData from '../metadata/songs.json'
 import albumsData from '../metadata/albums.json'
-
+import artistData from '../metadata/artists.json'
 
 dotenv.config();
 
@@ -17,6 +17,7 @@ export const getSongs = (req: Request, res: Response) => {
         }));
 
         res.json({ song: songsWithURL });
+        return;
     } catch (err) {
         console.error("error in getting songs:", err)
     }
@@ -34,6 +35,7 @@ export const getAlbumswithSongs = (req: Request, res: Response) => {
             }
         })
         res.json(dataFromSongs)
+        return;
     } catch (err) {
         console.error('Error in getAlbumswithSongs', err)
     }
@@ -48,8 +50,6 @@ const getQueries = ({ title, artist, album, limit, query }: {
 }) => {
     let songs = songData.song;
     try {
-
-
         if (typeof title === 'string') {
 
             songs = songs.filter(song => song.title.toLowerCase().includes(title.toLowerCase()))
@@ -101,6 +101,22 @@ export const getSearchParams = (req: Request, res: Response) => {
             limit: limit && !isNaN(Number(limit)) ? Number(limit) : undefined
         });
         res.json(songs);
+        return;
+    } catch (err) {
+        console.error('Error in getSearchParams', err);
+        res.status(500).json({ message: 'Internal server error' });
+    }
+
+};
+
+export const getSearchArtistsParams = (req: Request, res: Response) => {
+    try {
+        const { artist, query } = req.query;
+        const searchedArtist = (artist || query || "").toString().toLowerCase();
+
+        const matchedArtists = artistData.artist.filter(a => a.title.toLowerCase().includes(searchedArtist))
+        res.json(matchedArtists);
+        return;
     } catch (err) {
         console.error('Error in getSearchParams', err);
         res.status(500).json({ message: 'Internal server error' });
@@ -117,6 +133,7 @@ export const getSearchSongsParams = (req: Request, res: Response) => {
             limit: limit && !isNaN(Number(limit)) ? Number(limit) : undefined
         });
         res.json(songs);
+        return;
     } catch (err) {
         console.error('Error in getSearchParams', err);
         res.status(500).json({ message: 'Internal server error' });
@@ -153,12 +170,16 @@ export const getAlbumsbyID = (req: Request, res: Response) => {
         const albumId = Number(req.params.albumId);
         if (isNaN(albumId) || !albumId) {
             res.status(400).json({ message: 'invalid AlbumID' })
-            return
+            return;
         }
-
-        const songs = songData.song.filter(s => s.albumId === albumId)
-
+        
         const album = albumsData.album.find(a => a.id === albumId);
+         const songs = songData.song.filter(s => s.albumId === albumId)
+
+        if (!album) {
+         res.status(404).json({ message: 'Album not found' }); // ✅ added check
+         return;
+        }
 
         res.json({
             album,
@@ -166,24 +187,59 @@ export const getAlbumsbyID = (req: Request, res: Response) => {
         })
     } catch (err) {
         console.error('Error in getAlbumsbyID', err)
-        res.status(400).json({ message: 'Internal error' })
-
+        res.status(500).json({ message: 'Internal server error' });
+        
     }
 };
+
+export const getArtistsbyID = (req:Request,res:Response) => {
+    try{
+        const artistId = Number(req.params.artistId);
+        if(isNaN(artistId) || !artistId){
+            res.status(400).json({message:'invalid artistID'})
+            return;
+        }
+        const artist = artistData.artist.find(a => a.id === artistId);
+
+        res.json({
+            artist
+        })
+    }catch(err){
+        console.error('error in getArtistsbyID',err)
+
+    }
+}
+export const getArtistsSongsbyID = (req: Request, res: Response) => {
+    try {
+        const artistId = Number(req.params.artistId);
+        if (isNaN(artistId) || !artistId) {
+            res.status(400).json({ message: 'invalid artistID' })
+            return;
+        }
+
+        const artist = artistData.artist.find(a => a.id === artistId);
+        const songs = songData.song.filter(s => s.artist === artist?.title)
+
+
+        res.json({
+            ...artist,
+            songs
+        })
+    } catch (err) {
+        console.error('Error in getAlbumsbyID', err)
+    }
+};
+
 
 export const getAlbumSongsbyID = (req: Request, res: Response) => {
     try {
         const albumId = Number(req.params.albumId);
-        if (isNaN(albumId)) {
+        if (isNaN(albumId) || !albumId) {
             res.status(400).json({ message: 'invalid AlbumID' })
+            return;
         }
 
         const album = albumsData.album.find(a => a.id === albumId);
-
-        if (!albumId) {
-            res.status(404).json({ message: "albumId not found" })
-        }
-
         const songs = songData.song.filter(s => s.albumId === albumId)
 
 
@@ -193,6 +249,8 @@ export const getAlbumSongsbyID = (req: Request, res: Response) => {
         })
     } catch (err) {
         console.error('Error in getAlbumsbyID', err)
+        res.status(500).json({message:"internal server (getAlbumSongsbyID)"})
+        return;
     }
 };
 
@@ -206,8 +264,6 @@ export const getSongsbyID = (req: Request, res: Response) => {
         } else {
             res.status(404).json({ message: "songs not found" })
         };
-        res.json(findingSong)
-
     } catch (err) {
         console.error('Error in getSongsbyID', err)
 
