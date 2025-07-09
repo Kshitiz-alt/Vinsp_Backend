@@ -10,8 +10,15 @@ import ArtistRoute from './routes/ArtistsRoutes';
 
 const app = express();
 
+const allowedOrigins = process.env.FRONTEND_URLS?.split(',') || [];
 app.use(cors({
-    origin: process.env.FRONTEND_URL,
+    origin: function (origin, callback) {
+        if (!origin || allowedOrigins.includes(origin)) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
+    },
     methods: ['GET', 'POST'],
     credentials: true
 }));
