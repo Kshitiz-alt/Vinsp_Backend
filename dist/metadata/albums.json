@@ -3,22 +3,37 @@
         {
             "id": 1001,
             "title": "Genshin Impact",
-            "image": "http://localhost:5000/images/The%20Shimmering%20Voyage.jpg"
+            "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg"
         },
         {
             "id": 1002,
             "title": "The Weeknd",
-            "image": "http://localhost:5000/images/The%20Weeknd.jpg"
+            "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg"
         },
         {
             "id": 1003,
             "title": "Imagine Dragons",
-            "image": "http://localhost:5000/images/Imagine-Dragons.jpg"
+            "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg"
         },
         {
             "id": 1004,
             "title": "Alan Walker",
-            "image": "http://localhost:5000/images/Alan%20Walker.jpg"
+            "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker.jpg"
+        },
+        {
+            "id": 1005,
+            "title": "Billie Eilish",
+            "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg"
+        },
+        {
+            "id": 1006,
+            "title": "Ed Sheeran",
+            "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg"
+        },
+        {
+            "id": 1007,
+            "title": "ROSÉ",
+            "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg"
         }
     ]
 }

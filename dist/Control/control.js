@@ -3,10 +3,11 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getSongsbyID = exports.getAlbumSongsbyID = exports.getAlbumsbyID = exports.getSearchAlbumsParams = exports.getSearchSongsParams = exports.getSearchParams = exports.getAlbumswithSongs = exports.getSongs = void 0;
+exports.getAlbumSongsbyID = exports.getArtistsSongsbyID = exports.getArtistsbyID = exports.getAlbumsbyID = exports.getSearchAlbumsParams = exports.getSearchSongsParams = exports.getSearchArtistsParams = exports.getSearchParams = exports.getAlbumswithSongs = exports.getSongsbyID = exports.getSongs = void 0;
 const dotenv_1 = __importDefault(require("dotenv"));
 const songs_json_1 = __importDefault(require("../metadata/songs.json"));
 const albums_json_1 = __importDefault(require("../metadata/albums.json"));
+const artists_json_1 = __importDefault(require("../metadata/artists.json"));
 dotenv_1.default.config();
 const getSongs = (req, res) => {
     try {
@@ -16,12 +17,31 @@ const getSongs = (req, res) => {
             audio: `${baseUrl}/${encodeURIComponent(song.audio)}`
         }));
         res.json({ song: songsWithURL });
+        return;
     }
     catch (err) {
         console.error("error in getting songs:", err);
     }
 };
 exports.getSongs = getSongs;
+const getSongsbyID = (req, res) => {
+    try {
+        const id = Number(req.params.id);
+        const songs = songs_json_1.default.song;
+        const findingSong = songs.find((s) => s.id === id);
+        if (findingSong) {
+            res.json(findingSong);
+        }
+        else {
+            res.status(404).json({ message: "songs not found" });
+        }
+        ;
+    }
+    catch (err) {
+        console.error('Error in getSongsbyID', err);
+    }
+};
+exports.getSongsbyID = getSongsbyID;
 const getAlbumswithSongs = (req, res) => {
     try {
         const dataFromSongs = songs_json_1.default.song.map(song => {
@@ -32,6 +52,7 @@ const getAlbumswithSongs = (req, res) => {
             };
         });
         res.json(dataFromSongs);
+        return;
     }
     catch (err) {
         console.error('Error in getAlbumswithSongs', err);
@@ -88,6 +109,7 @@ const getSearchParams = (req, res) => {
             limit: limit && !isNaN(Number(limit)) ? Number(limit) : undefined
         });
         res.json(songs);
+        return;
     }
     catch (err) {
         console.error('Error in getSearchParams', err);
@@ -95,6 +117,20 @@ const getSearchParams = (req, res) => {
     }
 };
 exports.getSearchParams = getSearchParams;
+const getSearchArtistsParams = (req, res) => {
+    try {
+        const { artist, query } = req.query;
+        const searchedArtist = (artist || query || "").toString().toLowerCase();
+        const matchedArtists = artists_json_1.default.artist.filter(a => a.title.toLowerCase().includes(searchedArtist));
+        res.json(matchedArtists);
+        return;
+    }
+    catch (err) {
+        console.error('Error in getSearchParams', err);
+        res.status(500).json({ message: 'Internal server error' });
+    }
+};
+exports.getSearchArtistsParams = getSearchArtistsParams;
 const getSearchSongsParams = (req, res) => {
     try {
         const { title, query, limit } = req.query;
@@ -104,6 +140,7 @@ const getSearchSongsParams = (req, res) => {
             limit: limit && !isNaN(Number(limit)) ? Number(limit) : undefined
         });
         res.json(songs);
+        return;
     }
     catch (err) {
         console.error('Error in getSearchParams', err);
@@ -137,8 +174,12 @@ const getAlbumsbyID = (req, res) => {
             res.status(400).json({ message: 'invalid AlbumID' });
             return;
         }
-        const songs = songs_json_1.default.song.filter(s => s.albumId === albumId);
         const album = albums_json_1.default.album.find(a => a.id === albumId);
+        const songs = songs_json_1.default.song.filter(s => s.albumId === albumId);
+        if (!album) {
+            res.status(404).json({ message: 'Album not found' }); // ✅ added check
+            return;
+        }
         res.json({
             album,
             songs
@@ -146,20 +187,54 @@ const getAlbumsbyID = (req, res) => {
     }
     catch (err) {
         console.error('Error in getAlbumsbyID', err);
-        res.status(400).json({ message: 'Internal error' });
+        res.status(500).json({ message: 'Internal server error' });
     }
 };
 exports.getAlbumsbyID = getAlbumsbyID;
+const getArtistsbyID = (req, res) => {
+    try {
+        const artistId = Number(req.params.artistId);
+        if (isNaN(artistId) || !artistId) {
+            res.status(400).json({ message: 'invalid artistID' });
+            return;
+        }
+        const artist = artists_json_1.default.artist.find(a => a.id === artistId);
+        res.json({
+            artist
+        });
+    }
+    catch (err) {
+        console.error('error in getArtistsbyID', err);
+    }
+};
+exports.getArtistsbyID = getArtistsbyID;
+const getArtistsSongsbyID = (req, res) => {
+    try {
+        const artistId = Number(req.params.artistId);
+        if (isNaN(artistId) || !artistId) {
+            res.status(400).json({ message: 'invalid artistID' });
+            return;
+        }
+        const artist = artists_json_1.default.artist.find(a => a.id === artistId);
+        const songs = songs_json_1.default.song.filter(s => s.artist === artist?.title);
+        res.json({
+            ...artist,
+            songs
+        });
+    }
+    catch (err) {
+        console.error('Error in getAlbumsbyID', err);
+    }
+};
+exports.getArtistsSongsbyID = getArtistsSongsbyID;
 const getAlbumSongsbyID = (req, res) => {
     try {
         const albumId = Number(req.params.albumId);
-        if (isNaN(albumId)) {
+        if (isNaN(albumId) || !albumId) {
             res.status(400).json({ message: 'invalid AlbumID' });
+            return;
         }
         const album = albums_json_1.default.album.find(a => a.id === albumId);
-        if (!albumId) {
-            res.status(404).json({ message: "albumId not found" });
-        }
         const songs = songs_json_1.default.song.filter(s => s.albumId === albumId);
         res.json({
             album,
@@ -168,25 +243,8 @@ const getAlbumSongsbyID = (req, res) => {
     }
     catch (err) {
         console.error('Error in getAlbumsbyID', err);
+        res.status(500).json({ message: "internal server (getAlbumSongsbyID)" });
+        return;
     }
 };
 exports.getAlbumSongsbyID = getAlbumSongsbyID;
-const getSongsbyID = (req, res) => {
-    try {
-        const id = Number(req.params.id);
-        const songs = songs_json_1.default.song;
-        const findingSong = songs.find((s) => s.id === id);
-        if (findingSong) {
-            res.json(findingSong);
-        }
-        else {
-            res.status(404).json({ message: "songs not found" });
-        }
-        ;
-        res.json(findingSong);
-    }
-    catch (err) {
-        console.error('Error in getSongsbyID', err);
-    }
-};
-exports.getSongsbyID = getSongsbyID;
