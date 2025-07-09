@@ -10,12 +10,12 @@ import ArtistRoute from './routes/ArtistsRoutes';
 
 const app = express();
 
-// app.use(cors({
-//     origin: process.env.FRONTEND_URL,
-//     methods: ['GET', 'POST'],
-//     credentials: true
-// }));
-app.use(cors())
+app.use(cors({
+    origin: process.env.FRONTEND_URL,
+    methods: ['GET', 'POST'],
+    credentials: true
+}));
+// app.use(cors())
 
 const port = process.env.PORT || 5000;
 
