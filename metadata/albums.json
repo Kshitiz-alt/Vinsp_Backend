@@ -24,6 +24,16 @@
       "id": 1005,
       "title": "Billie Eilish",
       "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg"
+    },
+     {
+      "id": 1006,
+      "title": "Ed Sheeran",
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg"
+    },
+     {
+      "id": 1007,
+      "title": "ROSÉ",
+      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg"
     }
   ]
 }

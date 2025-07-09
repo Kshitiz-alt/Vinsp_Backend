@@ -1349,6 +1349,376 @@
       "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Wicked%20Games%20(Explicit).mp3",
       "duration": 281
+    },
+    {
+      "id": 236,
+      "title": "All of the Stars",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/01%20All%20of%20the%20Stars%20(Soundtrack%20Version).mp3",
+      "duration": 234
+    },
+    {
+      "id": 237,
+      "title": "One",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/01%20Ed%20Sheeran%20One.mp3",
+      "duration": 252
+    },
+    {
+      "id": 238,
+      "title": "Shape of You (Galantis Remix)",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/01%20Shape%20of%20You%20(Galantis%20Remix).mp3",
+      "duration": 295
+    },
+    {
+      "id": 239,
+      "title": "I'm a Mess",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/02%20Ed%20Sheeran%20Im%20a%20Mess.mp3",
+      "duration": 244
+    },
+    {
+      "id": 240,
+      "title": "Sing",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/03%20Ed%20Sheeran%20Sing.mp3",
+      "duration": 235
+    },
+    {
+      "id": 241,
+      "title": "Don't",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/04%20Ed%20Sheeran%20Dont.mp3",
+      "duration": 219
+    },
+    {
+      "id": 242,
+      "title": "Nina",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/05%20Ed%20Sheeran%20Nina.mp3",
+      "duration": 225
+    },
+    {
+      "id": 243,
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/06%20Ed%20Sheeran%20Photograph.mp3",
+      "duration": 258
+    },
+    {
+      "id": 244,
+      "title": "Bloodstream",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/07%20Ed%20Sheeran%20Bloodstream.mp3",
+      "duration": 300
+    },
+    {
+      "id": 245,
+      "title": "Tenerife Sea",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/08%20Ed%20Sheeran%20Tenerife%20Sea.mp3",
+      "duration": 241
+    },
+    {
+      "id": 246,
+      "title": "Runaway",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/09%20Ed%20Sheeran%20Runaway.mp3",
+      "duration": 205
+    },
+    {
+      "id": 247,
+      "title": "The Man",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/10%20Ed%20Sheeran%20The%20Man.mp3",
+      "duration": 250
+    },
+    {
+      "id": 248,
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/11%20Ed%20Sheeran%20Thinking%20Out%20Loud.mp3",
+      "duration": 281
+    },
+    {
+      "id": 249,
+      "title": "Afire Love",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/12%20Ed%20Sheeran%20Afire%20Love.mp3",
+      "duration": 314
+    },
+    {
+      "id": 250,
+      "title": "Take It Back",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/13%20Ed%20Sheeran%20Take%20It%20Back.mp3",
+      "duration": 208
+    },
+    {
+      "id": 251,
+      "title": "Shirtsleeves",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Ed%20Sheeran%20Shirtsleeves.mp3",
+      "duration": 190
+    },
+    {
+      "id": 252,
+      "title": "Even My Dad Does Sometimes",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/15%20Ed%20Sheeran%20Even%20My%20Dad%20Does%20Sometimes.mp3",
+      "duration": 228
+    },
+    {
+      "id": 253,
+      "title": "I See Fire",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/28%20Ed%20Sheeran%20I%20See%20Fire.mp3",
+      "duration": 300
+    },
+    {
+      "id": 254,
+      "title": "Barcelona",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Barcelona%20Official%20Audio.mp3",
+      "duration": 191
+    },
+    {
+      "id": 255,
+      "title": "Bibia Be Ye Ye",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Bibia%20Be%20Ye%20Ye.mp3",
+      "duration": 167
+    },
+    {
+      "id": 256,
+      "title": "Castle on the Hill",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Castle%20On%20The%20Hill%20Official%20Video.mp3",
+      "duration": 288
+    },
+    {
+      "id": 257,
+      "title": "Dive",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Dive%20Music%20Video.mp3",
+      "duration": 238
+    },
+    {
+      "id": 258,
+      "title": "Drunk",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Drunk%20Official%20Video.mp3",
+      "duration": 228
+    },
+    {
+      "id": 259,
+      "title": "Eraser",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Eraser%20Official%20Audio.mp3",
+      "duration": 223
+    },
+    {
+      "id": 260,
+      "title": "Galway Girl",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Galway%20Girl%20Official%20Video.mp3",
+      "duration": 199
+    },
+    {
+      "id": 261,
+      "title": "Give Me Love",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Give%20Me%20Love%20Official%20Video.mp3",
+      "duration": 262
+    },
+    {
+      "id": 262,
+      "title": "Happier",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Happier%20(Music%20Video).mp3",
+      "duration": 234
+    },
+    {
+      "id": 263,
+      "title": "Hearts Don't Break Around Here",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Hearts%20Don't%20Break%20Round%20Here%20Official%20Audio.mp3",
+      "duration": 248
+    },
+    {
+      "id": 264,
+      "title": "How Would You Feel (Paean)",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20How%20Would%20You%20Feel%20(Paean)%20Live.mp3",
+      "duration": 285
+    },
+    {
+      "id": 265,
+      "title": "Lego House",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Lego%20House%20Official%20Video.mp3",
+      "duration": 245
+    },
+    {
+      "id": 266,
+      "title": "Nancy Mulligan",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Nancy%20Mulligan%20Official%20Audio.mp3",
+      "duration": 179
+    },
+    {
+      "id": 267,
+      "title": "You Need Me, I Don't Need You (Live Room)",
+      "artist": "Ed Sheeran",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20You%20Need%20Me,%20I%20Don't%20Need%20You%20captured%20in%20The%20Live%20Room.mp3",
+      "duration": 684
+    },
+    {
+      "id": 268,
+      "title": "River (ft. Ed Sheeran)",
+      "artist": "Eminem",
+      "albumId": 1006,
+      "artistId": 10006,
+      "image": "https://RestAPIpull.b-cdn.net/images/Eminem.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Eminem%20-%20River%20(Audio)%20ft.%20Ed%20Sheeran.mp3",
+      "duration": 222
+    },
+    {
+      "id": 269,
+      "title": "On The Ground",
+      "artist": "Rosé",
+      "albumId": 1007,
+      "artistId": 10007,
+      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/01%20On%20The%20Ground.mp3",
+      "duration": 177
+    },
+    {
+      "id": 270,
+      "title": "Gone",
+      "artist": "Rosé",
+      "albumId": 1007,
+      "artistId": 10007,
+      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/02%20Gone.mp3",
+      "duration": 185
+    },
+    {
+      "id": 271,
+      "title": "On The Ground [Instrumental]",
+      "artist": "Rosé",
+      "albumId": 1007,
+      "artistId": 10007,
+      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/03%20On%20The%20Ground%20%5BInstrumental%5D.mp3",
+      "duration": 177
+    },
+    {
+      "id": 272,
+      "title": "Gone [Instrumental]",
+      "artist": "Rosé",
+      "albumId": 1007,
+      "artistId": 10007,
+      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/04%20Gone%20%5BInstrumental%5D.mp3",
+      "duration": 185
     }
   ]
 }

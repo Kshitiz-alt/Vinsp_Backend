@@ -23,6 +23,24 @@ export const getSongs = (req: Request, res: Response) => {
     }
 };
 
+export const getSongsbyID = (req: Request, res: Response) => {
+    try {
+        const id = Number(req.params.id);
+        const songs = songData.song;
+        const findingSong = songs.find((s) => s.id === id);
+        if (findingSong) {
+            res.json(findingSong)
+        } else {
+            res.status(404).json({ message: "songs not found" })
+        };
+    } catch (err) {
+        console.error('Error in getSongsbyID', err)
+
+    }
+
+};
+
+
 
 export const getAlbumswithSongs = (req: Request, res: Response) => {
     try {
@@ -252,22 +270,5 @@ export const getAlbumSongsbyID = (req: Request, res: Response) => {
         res.status(500).json({message:"internal server (getAlbumSongsbyID)"})
         return;
     }
-};
-
-export const getSongsbyID = (req: Request, res: Response) => {
-    try {
-        const id = Number(req.params.id);
-        const songs = songData.song;
-        const findingSong = songs.find((s) => s.id === id);
-        if (findingSong) {
-            res.json(findingSong)
-        } else {
-            res.status(404).json({ message: "songs not found" })
-        };
-    } catch (err) {
-        console.error('Error in getSongsbyID', err)
-
-    }
-
 };
 
