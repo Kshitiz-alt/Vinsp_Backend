@@ -1676,7 +1676,7 @@
       "artist": "Eminem",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Eminem.jpg",
+      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Eminem%20-%20River%20(Audio)%20ft.%20Ed%20Sheeran.mp3",
       "duration": 222
     },
@@ -1719,6 +1719,116 @@
       "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/04%20Gone%20%5BInstrumental%5D.mp3",
       "duration": 185
+    },
+    {
+      "id": 273,
+      "title": "Debut",
+      "artist": "KATSEYE",
+      "albumId": 1008,
+      "artistId": 10008,
+      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/KATSEYE%20'Debut'.mp3",
+      "duration": 123
+    },
+    {
+      "id": 274,
+      "title": "Touch",
+      "artist": "KATSEYE",
+      "albumId": 1008,
+      "artistId": 10008,
+      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/KATSEYE%20'Touch'.mp3",
+      "duration": 130
+    },
+    {
+      "id": 275,
+      "title": "My Way",
+      "artist": "KATSEYE (캣츠아이)",
+      "albumId": 1008,
+      "artistId": 10008,
+      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/KATSEYE%20(캣츠아이)%20My%20Way.mp3",
+      "duration": 169
+    },
+    {
+      "id": 276,
+      "title": "Tonight I Might",
+      "artist": "KATSEYE (캣츠아이)",
+      "albumId": 1008,
+      "artistId": 10008,
+      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/KATSEYE%20(캣츠아이)%20Tonight%20I%20Might.mp3",
+      "duration": 244
+    },
+    {
+      "id": 277,
+      "title": "Yeh Duniya Hai",
+      "artist": "Lata Mangeshkar",
+      "albumId": 1009,
+      "artistId": 10009,
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20duniya%20hai%20%20156.mp3",
+      "duration": 190
+    },
+    {
+      "id": 278,
+      "title": "Yeh Raatein",
+      "artist": "Lata Mangeshkar",
+      "albumId": 1009,
+      "artistId": 10009,
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20Raatein157.mp3",
+      "duration": 318
+    },
+    {
+      "id": 279,
+      "title": "Yeh Shaam",
+      "artist": "Lata Mangeshkar",
+      "albumId": 1009,
+      "artistId": 10009,
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20Shaam%20158.mp3",
+      "duration": 191
+    },
+    {
+      "id": 280,
+      "title": "Yeh Zindagi",
+      "artist": "Lata Mangeshkar",
+      "albumId": 1009,
+      "artistId": 10009,
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20Zindagi%20161.mp3",
+      "duration": 173
+    },
+    {
+      "id": 281,
+      "title": "Zara",
+      "artist": "Lata Mangeshkar",
+      "albumId": 1009,
+      "artistId": 10009,
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Zara%20162.mp3",
+      "duration": 239
+    },
+    {
+      "id": 282,
+      "title": "Zara Thehar",
+      "artist": "Lata Mangeshkar",
+      "albumId": 1009,
+      "artistId": 10009,
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Zara%20Thehar%20163.mp3",
+      "duration": 206
+    },
+    {
+      "id": 283,
+      "title": "Zid Na Kar",
+      "artist": "Lata Mangeshkar",
+      "albumId": 1009,
+      "artistId": 10009,
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Zid%20Na%20Kar164.mp3",
+      "duration": 259
     }
   ]
 }

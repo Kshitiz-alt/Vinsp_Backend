@@ -65,6 +65,20 @@
       "genre":"pop rock",
       "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
       "songs": [269,270,271,272]
+    },
+    {
+      "id": 10008,
+      "title": "Katseye",
+      "genre":"Contemporary R&B",
+      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
+      "songs": [273,274,275,276]
+    },
+     {
+      "id": 10009,
+      "title": "Lata Mangeshkar",
+      "genre":"Contemporary R&B",
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "songs": [277,278,279,280,281,282,283]
     }
   ]
 }

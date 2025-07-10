@@ -236,7 +236,8 @@ export const getArtistsSongsbyID = (req: Request, res: Response) => {
         }
 
         const artist = artistData.artist.find(a => a.id === artistId);
-        const songs = songData.song.filter(s => s.artist === artist?.title)
+        const songs = songData.song.filter(s => s.artistId === artistId)
+        console.log("songs...",songs)
 
 
         res.json({

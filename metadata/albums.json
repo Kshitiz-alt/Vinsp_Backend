@@ -34,6 +34,16 @@
       "id": 1007,
       "title": "ROSÉ",
       "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg"
+    },
+     {
+      "id": 1008,
+      "title": "Katseye",
+      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg"
+    },
+    {
+      "id": 1009,
+      "title": "Lata Mangeshkar",
+      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg"
     }
   ]
 }
