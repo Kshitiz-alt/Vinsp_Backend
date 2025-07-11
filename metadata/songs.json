@@ -1829,6 +1829,536 @@
       "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Zid%20Na%20Kar164.mp3",
       "duration": 259
+    },
+    {
+      "id": 284,
+      "title": "Aaj Phir Video Song",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Aaj%20Phir%20Video%20Song.mp3",
+      "duration": 180
+    },
+    {
+      "id": 285,
+      "title": "Aasan Nahin Yahan",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Aasan%20Nahin%20Yahan.mp3",
+      "duration": 238
+    },
+    {
+      "id": 286,
+      "title": "Aayat",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Aayat.mp3",
+      "duration": 253
+    },
+    {
+      "id": 287,
+      "title": "Ashq Na Ho",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Ashq%20Na%20Ho.mp3",
+      "duration": 358
+    },
+    {
+      "id": 288,
+      "title": "Baatein Ye Kabhi Na",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Baatein%20Ye%20Kabhi%20Na.mp3",
+      "duration": 255
+    },
+    {
+      "id": 289,
+      "title": "Chahun Main Ya Naa",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Chahun%20Main%20Ya%20Naa.mp3",
+      "duration": 240
+    },
+    {
+      "id": 290,
+      "title": "Chal Wahan Jaate H...",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Chal%20Wahan%20Jaate%20Hain.mp3",
+      "duration": 326
+    },
+    {
+      "id": 291,
+      "title": "Daayre",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Daayre.mp3",
+      "duration": 320
+    },
+    {
+      "id": 292,
+      "title": "Dhuaan",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Dhuaan.mp3",
+      "duration": 220
+    },
+    {
+      "id": 293,
+      "title": "Dil Cheez Tujhe Ded...",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Dil%20cheez%20tujhe%20%20dedi%20f.mp3",
+      "duration": 271
+    },
+    {
+      "id": 294,
+      "title": "Gerua",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Gerua.mp3",
+      "duration": 287
+    },
+    {
+      "id": 295,
+      "title": "Hai Dil Ye Mera",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Hai%20Dil%20Ye%20Mera.mp3",
+      "duration": 312
+    },
+    {
+      "id": 296,
+      "title": "Haider",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Haider.mp3",
+      "duration": 314
+    },
+    {
+      "id": 297,
+      "title": "Hamdard",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Hamdard.mp3",
+      "duration": 259
+    },
+    {
+      "id": 298,
+      "title": "Heropanti",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Heropanti.mp3",
+      "duration": 335
+    },
+    {
+      "id": 299,
+      "title": "Janam Janam",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Janam%20Janam.mp3",
+      "duration": 183
+    },
+    {
+      "id": 300,
+      "title": "Jiya",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Jiya.mp3",
+      "duration": 280
+    },
+    {
+      "id": 301,
+      "title": "Khamoshiyan S",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Khamoshiyan%20S.mp3",
+      "duration": 336
+    },
+    {
+      "id": 302,
+      "title": "Khul Kabhi",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Khul%20Kabhi.mp3",
+      "duration": 384
+    },
+    {
+      "id": 303,
+      "title": "Kyun Hua",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Kyun%20Hua.mp3",
+      "duration": 312
+    },
+    {
+      "id": 304,
+      "title": "Main Dhoondne Ko Zamaane Mein Heartless",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Main%20Dhoondne%20Ko%20Zamaane%20Mein%20%20Heartless.mp3",
+      "duration": 293
+    },
+    {
+      "id": 305,
+      "title": "Main Hoon Deewana Tera",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Main%20Hoon%20Deewana%20Tera.mp3",
+      "duration": 324
+    },
+    {
+      "id": 306,
+      "title": "Main Tera Hero",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Main%20Tera%20Hero.mp3",
+      "duration": 250
+    },
+    {
+      "id": 307,
+      "title": "Manwa Laage",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Manwa%20Laage.mp3",
+      "duration": 268
+    },
+    {
+      "id": 308,
+      "title": "Mareez-E-Ishq",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Mareez-E-Ishq.mp3",
+      "duration": 213
+    },
+    {
+      "id": 309,
+      "title": "Muskurane",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Muskurane.mp3",
+      "duration": 334
+    },
+    {
+      "id": 310,
+      "title": "O Soniye",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/O%20Soniye.mp3",
+      "duration": 263
+    },
+    {
+      "id": 311,
+      "title": "Rishton Ke Saare Manzar",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Rishton%20Ke%20Saare%20Manzar.mp3",
+      "duration": 321
+    },
+    {
+      "id": 312,
+      "title": "Saanson Ko",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Saanson%20Ko.mp3",
+      "duration": 288
+    },
+    {
+      "id": 313,
+      "title": "Saawali Si Raat",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Saawali%20Si%20Raat.mp3",
+      "duration": 310
+    },
+    {
+      "id": 314,
+      "title": "Sajde",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Sajde.mp3 ",
+      "duration": 180
+    },
+    {
+      "id": 315,
+      "title": "Samjhawan",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Samjhawan.mp3 ",
+      "duration": 265
+    },
+    {
+      "id": 316,
+      "title": "Sanam Re",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Sanam%20re.mp3",
+      "duration": 269
+    },
+    {
+      "id": 317,
+      "title": "Saudebaazi",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Saudebaazi.mp3",
+      "duration": 232
+    },
+    {
+      "id": 318,
+      "title": "Sawan Aaya Hai",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Sawan%20Aaya%20Hai.mp3",
+      "duration": 288
+    },
+    {
+      "id": 319,
+      "title": "Singham Returns",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Singham%20Returns.mp3",
+      "duration": 291
+    },
+    {
+      "id": 320,
+      "title": "Soch Na Sake",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Soch%20na%20sake.mp3",
+      "duration": 281
+    },
+    {
+      "id": 321,
+      "title": "Sukoon Mila",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Sukoon%20mila.mp3",
+      "duration": 206
+    },
+    {
+      "id": 322,
+      "title": "Suno Na Sangemarmar",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Suno%20Na%20Sangemarmar.mp3",
+      "duration": 198
+    },
+    {
+      "id": 323,
+      "title": "Taake Jhanke",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Taake%20Jhanke.mp3",
+      "duration": 290
+    },
+    {
+      "id": 324,
+      "title": "Tu Chale",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Tu%20Chale.mp3",
+      "duration": 292
+    },
+    {
+      "id": 325,
+      "title": "Tu Hi Hai Aashiqui",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Tu%20Hi%20Hai%20Aashiqui.mp3",
+      "duration": 297
+    },
+    {
+      "id": 326,
+      "title": "Tukur Tukur",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Tukur%20Tukur.mp3",
+      "duration": 271
+    },
+    {
+      "id": 327,
+      "title": "Tum Hi Ho",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Tum%20Hi%20Ho.mp3",
+      "duration": 267
+    },
+    {
+      "id": 328,
+      "title": "Yeh Fitoor Mera",
+      "artist": "Arijit Singh",
+      "albumId": 1010,
+      "artistId": 10010,
+      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20Fitoor%20Mera.mp3",
+      "duration": 290
+    },
+    {
+      "id": 329,
+      "title": "Valerie",
+      "artist": "The Weeknd",
+      "albumId": 1002,
+      "artistId": 10002,
+      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Valerie.mp3",
+      "duration": 286
+    },
+    {
+      "id": 330,
+      "title": "Aa Pukare Tujhe Ye",
+      "artist": "Sonu Nigam",
+      "albumId": 1011,
+      "artistId": 10011,
+      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Aa%20Pukare%20Tujhe%20Ye%20Dil.mp3",
+      "duration": 240
+    },
+    {
+      "id": 331,
+      "title": "Aahun Aahun",
+      "artist": "Sonu Nigam",
+      "albumId": 1011,
+      "artistId": 10011,
+      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Aahun%20Aahun.mp3",
+      "duration": 230
+    },
+    {
+      "id": 332,
+      "title": "Aai Dil Mat Ro",
+      "artist": "Sonu Nigam",
+      "albumId": 1011,
+      "artistId": 10011,
+      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Aai%20Dil%20Mat%20Ro.mp3",
+      "duration": 215
+    },
+    {
+      "id": 333,
+      "title": "Aaja Nachle Konkona",
+      "artist": "Sonu Nigam",
+      "albumId": 1011,
+      "artistId": 10011,
+      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Aaja%20Nachle%20%20Konkona.mp3",
+      "duration": 245
+    },
+    {
+      "id": 334,
+      "title": "Aao",
+      "artist": "Sonu Nigam",
+      "albumId": 1011,
+      "artistId": 10011,
+      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Aao.mp3",
+      "duration": 198
+    },
+    {
+      "id": 335,
+      "title": "Abhi Saans Lene Ki",
+      "artist": "Sonu Nigam",
+      "albumId": 1011,
+      "artistId": 10011,
+      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Abhi%20Saans%20Lene%20Ki.mp3",
+      "duration": 250
+    },
+    {
+      "id": 336,
+      "title": "Achha Sila Diya",
+      "artist": "Sonu Nigam",
+      "albumId": 1011,
+      "artistId": 10011,
+      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://RestAPIpull.b-cdn.net/audio/Achha%20Sila%20Diya.mp3",
+      "duration": 235
     }
   ]
 }
