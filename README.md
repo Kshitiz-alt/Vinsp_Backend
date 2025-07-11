@@ -1,4 +1,4 @@
-# 🎵 M2 Backend - Music API Server
+# 🎵 Visnp - Music API Server
 
 This is the backend service for the **Vinsp** music streaming web application. It provides RESTful APIs for songs, albums, artists, and search functionality. It also supports song ZIP downloads and includes performance optimizations like in-memory caching.
 
