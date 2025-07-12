@@ -2298,7 +2298,7 @@
       "artistId": 10011,
       "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Aa%20Pukare%20Tujhe%20Ye%20Dil.mp3",
-      "duration": 240
+      "duration": 226
     },
     {
       "id": 331,
@@ -2308,7 +2308,7 @@
       "artistId": 10011,
       "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Aahun%20Aahun.mp3",
-      "duration": 230
+      "duration": 181
     },
     {
       "id": 332,
@@ -2318,7 +2318,7 @@
       "artistId": 10011,
       "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Aai%20Dil%20Mat%20Ro.mp3",
-      "duration": 215
+      "duration": 395
     },
     {
       "id": 333,
@@ -2328,7 +2328,7 @@
       "artistId": 10011,
       "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Aaja%20Nachle%20%20Konkona.mp3",
-      "duration": 245
+      "duration": 258
     },
     {
       "id": 334,
@@ -2338,7 +2338,7 @@
       "artistId": 10011,
       "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Aao.mp3",
-      "duration": 198
+      "duration": 313
     },
     {
       "id": 335,
@@ -2348,7 +2348,7 @@
       "artistId": 10011,
       "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Abhi%20Saans%20Lene%20Ki.mp3",
-      "duration": 250
+      "duration": 398
     },
     {
       "id": 336,
@@ -2358,7 +2358,7 @@
       "artistId": 10011,
       "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
       "audio": "https://RestAPIpull.b-cdn.net/audio/Achha%20Sila%20Diya.mp3",
-      "duration": 235
+      "duration": 308
     }
   ]
 }

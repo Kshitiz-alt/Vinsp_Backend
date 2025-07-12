@@ -25,17 +25,17 @@
       "title": "Billie Eilish",
       "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg"
     },
-     {
+    {
       "id": 1006,
       "title": "Ed Sheeran",
       "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg"
     },
-     {
+    {
       "id": 1007,
       "title": "ROSÉ",
       "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg"
     },
-     {
+    {
       "id": 1008,
       "title": "Katseye",
       "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg"
@@ -49,8 +49,11 @@
       "id": 1010,
       "title": "Arijit Singh",
       "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg"
+    },
+    {
+      "id": 1011,
+      "title": "Sonu Nigam",
+      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg"
     }
   ]
 }
-
- 
