@@ -6,9 +6,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/01%20What%20a%20Hopeful%20Voyage.mp3",
-      "duration": 169
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/01%20What%20a%20Hopeful%20Voyage.mp3",
+      "duration": 169,
+      "language": "English"
     },
     {
       "id": 102,
@@ -16,9 +17,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/02%20Vast%20and%20Blue.mp3",
-      "duration": 142
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/02%20Vast%20and%20Blue.mp3",
+      "duration": 142,
+      "language": "English"
     },
     {
       "id": 103,
@@ -26,9 +28,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/03%20Mesmerizing%20Waves.mp3",
-      "duration": 158
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/03%20Mesmerizing%20Waves.mp3",
+      "duration": 158,
+      "language": "English"
     },
     {
       "id": 104,
@@ -36,9 +39,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/04%20Journey%20into%20Sweet%20Dreams.mp3",
-      "duration": 150
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/04%20Journey%20into%20Sweet%20Dreams.mp3",
+      "duration": 150,
+      "language": "English"
     },
     {
       "id": 105,
@@ -46,9 +50,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/05.%20Whispering%20Seabreeze.mp3",
-      "duration": 103
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/05.%20Whispering%20Seabreeze.mp3",
+      "duration": 103,
+      "language": "English"
     },
     {
       "id": 106,
@@ -56,9 +61,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/06%20Sunshine%20Beach.mp3",
-      "duration": 111
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/06%20Sunshine%20Beach.mp3",
+      "duration": 111,
+      "language": "English"
     },
     {
       "id": 107,
@@ -66,9 +72,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/07%20Ariel's%20Footprints.mp3",
-      "duration": 85
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/07%20Ariel's%20Footprints.mp3",
+      "duration": 85,
+      "language": "English"
     },
     {
       "id": 108,
@@ -76,9 +83,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/08%20Melody%20of%20Jellyfish.mp3",
-      "duration": 136
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/08%20Melody%20of%20Jellyfish.mp3",
+      "duration": 136,
+      "language": "English"
     },
     {
       "id": 109,
@@ -86,9 +94,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/09%20Comforting%20Quietude.mp3",
-      "duration": 57
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/09%20Comforting%20Quietude.mp3",
+      "duration": 57,
+      "language": "English"
     },
     {
       "id": 110,
@@ -96,9 +105,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/10%20Old%20Tales%20Preserved.mp3",
-      "duration": 89
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/10%20Old%20Tales%20Preserved.mp3",
+      "duration": 89,
+      "language": "English"
     },
     {
       "id": 111,
@@ -106,9 +116,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/11%20Cautious%20Explorers.mp3",
-      "duration": 56
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/11%20Cautious%20Explorers.mp3",
+      "duration": 56,
+      "language": "English"
     },
     {
       "id": 112,
@@ -116,9 +127,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/12%20In%20Stories%20of%20Fading%20Light.mp3",
-      "duration": 65
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/12%20In%20Stories%20of%20Fading%20Light.mp3",
+      "duration": 65,
+      "language": "English"
     },
     {
       "id": 113,
@@ -126,9 +138,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/13%20Cozy%20Company.mp3",
-      "duration": 134
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/13%20Cozy%20Company.mp3",
+      "duration": 134,
+      "language": "English"
     },
     {
       "id": 114,
@@ -136,9 +149,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/14%20Reminiscence%20of%20the%20Old%20Days.mp3",
-      "duration": 62
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/14%20Reminiscence%20of%20the%20Old%20Days.mp3",
+      "duration": 62,
+      "language": "English"
     },
     {
       "id": 115,
@@ -146,9 +160,10 @@
       "artist": "HOYO-MiX",
       "albumId": 1001,
       "artistId": 10001,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
-      "audio": "http://RestAPIpull.b-cdn.net/audio/15%20Faraway%20Solicitude.mp3",
-      "duration": 136
+      "image": "https://Visnp.b-cdn.net/images/The%20Shimmering%20Voyage.jpg",
+      "audio": "http://Visnp.b-cdn.net/audio/15%20Faraway%20Solicitude.mp3",
+      "duration": 136,
+      "language": "English"
     },
     {
       "id": 116,
@@ -156,9 +171,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Gone%20(Explicit).mp3",
-      "duration": 486
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Gone%20(Explicit).mp3",
+      "duration": 486,
+      "language": "English"
     },
     {
       "id": 117,
@@ -166,9 +182,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Heaven%20Or%20Las%20Vegas.mp3",
-      "duration": 353
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Heaven%20Or%20Las%20Vegas.mp3",
+      "duration": 353,
+      "language": "English"
     },
     {
       "id": 118,
@@ -176,9 +193,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/High%20For%20This.mp3",
-      "duration": 247
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/High%20For%20This.mp3",
+      "duration": 247,
+      "language": "English"
     },
     {
       "id": 119,
@@ -186,9 +204,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Life%20Of%20The%20Party.mp3",
-      "duration": 296
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Life%20Of%20The%20Party.mp3",
+      "duration": 296,
+      "language": "English"
     },
     {
       "id": 120,
@@ -196,9 +215,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Lonely%20Star%20(Explicit).mp3",
-      "duration": 349
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Lonely%20Star%20(Explicit).mp3",
+      "duration": 349,
+      "language": "English"
     },
     {
       "id": 121,
@@ -206,9 +226,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Birds%20Pt.%202%20(Explicit).mp3",
-      "duration": 350
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Birds%20Pt.%202%20(Explicit).mp3",
+      "duration": 350,
+      "language": "English"
     },
     {
       "id": 122,
@@ -216,9 +237,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Party%20&amp;%20The%20After%20Party%20(Explicit).mp3",
-      "duration": 459
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Party%20&amp;%20The%20After%20Party%20(Explicit).mp3",
+      "duration": 459,
+      "language": "English"
     },
     {
       "id": 123,
@@ -226,9 +248,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Coming%20Down.mp3",
-      "duration": 300
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Coming%20Down.mp3",
+      "duration": 300,
+      "language": "English"
     },
     {
       "id": 124,
@@ -236,9 +259,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20D.D..mp3",
-      "duration": 279
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20D.D..mp3",
+      "duration": 279,
+      "language": "English"
     },
     {
       "id": 125,
@@ -246,9 +270,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Wrecked.mp3",
-      "duration": 240
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Wrecked.mp3",
+      "duration": 240,
+      "language": "English"
     },
     {
       "id": 126,
@@ -256,9 +281,10 @@
       "artist": "Imagine Dragons, JID",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20_JID%20-%20Enemy.mp3",
-      "duration": 170
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20_JID%20-%20Enemy.mp3",
+      "duration": 170,
+      "language": "English"
     },
     {
       "id": 127,
@@ -266,9 +292,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Amsterdam.mp3",
-      "duration": 242
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Amsterdam.mp3",
+      "duration": 242,
+      "language": "English"
     },
     {
       "id": 128,
@@ -276,9 +303,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Believer.mp3",
-      "duration": 216
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Believer.mp3",
+      "duration": 216,
+      "language": "English"
     },
     {
       "id": 129,
@@ -286,9 +314,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Birds.mp3",
-      "duration": 218
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Birds.mp3",
+      "duration": 218,
+      "language": "English"
     },
     {
       "id": 130,
@@ -296,9 +325,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Bleeding%20Out.mp3",
-      "duration": 221
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Bleeding%20Out.mp3",
+      "duration": 221,
+      "language": "English"
     },
     {
       "id": 131,
@@ -306,9 +336,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Boomerang.mp3",
-      "duration": 187
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Boomerang.mp3",
+      "duration": 187,
+      "language": "English"
     },
     {
       "id": 132,
@@ -316,9 +347,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Bullet%20In%20A%20Gun.mp3",
-      "duration": 205
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Bullet%20In%20A%20Gun.mp3",
+      "duration": 205,
+      "language": "English"
     },
     {
       "id": 133,
@@ -326,9 +358,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Burn%20Out.mp3",
-      "duration": 275
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Burn%20Out.mp3",
+      "duration": 275,
+      "language": "English"
     },
     {
       "id": 134,
@@ -336,9 +369,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Cool%20Out.mp3",
-      "duration": 217
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Cool%20Out.mp3",
+      "duration": 217,
+      "language": "English"
     },
     {
       "id": 135,
@@ -346,9 +380,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Dancing%20In%20The%20Dark.mp3",
-      "duration": 233
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Dancing%20In%20The%20Dark.mp3",
+      "duration": 233,
+      "language": "English"
     },
     {
       "id": 136,
@@ -356,9 +391,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Demons.mp3",
-      "duration": 175
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Demons.mp3",
+      "duration": 175,
+      "language": "English"
     },
     {
       "id": 137,
@@ -366,9 +402,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Digital.mp3",
-      "duration": 201
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Digital.mp3",
+      "duration": 201,
+      "language": "English"
     },
     {
       "id": 138,
@@ -376,9 +413,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Follow%20You.mp3",
-      "duration": 175
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Follow%20You.mp3",
+      "duration": 175,
+      "language": "English"
     },
     {
       "id": 139,
@@ -386,9 +424,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Gold.mp3",
-      "duration": 216
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Gold.mp3",
+      "duration": 216,
+      "language": "English"
     },
     {
       "id": 140,
@@ -396,9 +435,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Hear%20Me.mp3",
-      "duration": 232
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Hear%20Me.mp3",
+      "duration": 232,
+      "language": "English"
     },
     {
       "id": 141,
@@ -406,9 +446,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20I%20Bet%20My%20Life.mp3",
-      "duration": 192
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20I%20Bet%20My%20Life.mp3",
+      "duration": 192,
+      "language": "English"
     },
     {
       "id": 142,
@@ -416,9 +457,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20I'll%20Make%20It%20Up%20To%20You.mp3",
-      "duration": 358
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20I'll%20Make%20It%20Up%20To%20You.mp3",
+      "duration": 358,
+      "language": "English"
     },
     {
       "id": 143,
@@ -426,9 +468,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20It's%20Time.mp3",
-      "duration": 242
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20It's%20Time.mp3",
+      "duration": 242,
+      "language": "English"
     },
     {
       "id": 144,
@@ -436,9 +479,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Love.mp3",
-      "duration": 164
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Love.mp3",
+      "duration": 164,
+      "language": "English"
     },
     {
       "id": 145,
@@ -446,9 +490,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Machine.mp3",
-      "duration": 181
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Machine.mp3",
+      "duration": 181,
+      "language": "English"
     },
     {
       "id": 146,
@@ -456,9 +501,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Mouth%20Of%20The%20River.mp3",
-      "duration": 221
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Mouth%20Of%20The%20River.mp3",
+      "duration": 221,
+      "language": "English"
     },
     {
       "id": 147,
@@ -466,9 +512,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Natural.mp3",
-      "duration": 190
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Natural.mp3",
+      "duration": 190,
+      "language": "English"
     },
     {
       "id": 148,
@@ -476,9 +523,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Next%20To%20Me.mp3",
-      "duration": 230
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Next%20To%20Me.mp3",
+      "duration": 230,
+      "language": "English"
     },
     {
       "id": 149,
@@ -486,9 +534,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20On%20Top%20Of%20The%20World.mp3",
-      "duration": 189
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20On%20Top%20Of%20The%20World.mp3",
+      "duration": 189,
+      "language": "English"
     },
     {
       "id": 150,
@@ -496,9 +545,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Only.mp3",
-      "duration": 182
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Only.mp3",
+      "duration": 182,
+      "language": "English"
     },
     {
       "id": 151,
@@ -506,9 +556,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Radioactive.mp3",
-      "duration": 186
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Radioactive.mp3",
+      "duration": 186,
+      "language": "English"
     },
     {
       "id": 152,
@@ -516,9 +567,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Real%20Life.mp3",
-      "duration": 247
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Real%20Life.mp3",
+      "duration": 247,
+      "language": "English"
     },
     {
       "id": 153,
@@ -526,9 +578,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Rise%20Up.mp3",
-      "duration": 231
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Rise%20Up.mp3",
+      "duration": 231,
+      "language": "English"
     },
     {
       "id": 154,
@@ -536,9 +589,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Shots.mp3",
-      "duration": 232
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Shots.mp3",
+      "duration": 232,
+      "language": "English"
     },
     {
       "id": 155,
@@ -546,9 +600,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Smoke%20And%20Mirrors.mp3",
-      "duration": 260
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Smoke%20And%20Mirrors.mp3",
+      "duration": 260,
+      "language": "English"
     },
     {
       "id": 156,
@@ -556,9 +611,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Start%20Over.mp3",
-      "duration": 186
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Start%20Over.mp3",
+      "duration": 186,
+      "language": "English"
     },
     {
       "id": 157,
@@ -566,9 +622,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Stuck.mp3",
-      "duration": 190
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Stuck.mp3",
+      "duration": 190,
+      "language": "English"
     },
     {
       "id": 158,
@@ -576,9 +633,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Thunder.mp3",
-      "duration": 204
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Thunder.mp3",
+      "duration": 204,
+      "language": "English"
     },
     {
       "id": 159,
@@ -586,9 +644,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Walking%20The%20Wire.mp3",
-      "duration": 231
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Walking%20The%20Wire.mp3",
+      "duration": 231,
+      "language": "English"
     },
     {
       "id": 160,
@@ -596,9 +655,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Warrior.mp3",
-      "duration": 319
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Warrior.mp3",
+      "duration": 319,
+      "language": "English"
     },
     {
       "id": 161,
@@ -606,9 +666,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20West%20Coast.mp3",
-      "duration": 217
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20West%20Coast.mp3",
+      "duration": 217,
+      "language": "English"
     },
     {
       "id": 162,
@@ -616,9 +677,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Whatever%20It%20Takes.mp3",
-      "duration": 219
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Whatever%20It%20Takes.mp3",
+      "duration": 219,
+      "language": "English"
     },
     {
       "id": 163,
@@ -626,9 +688,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Wrecked.mp3",
-      "duration": 240
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Wrecked.mp3",
+      "duration": 240,
+      "language": "English"
     },
     {
       "id": 164,
@@ -636,9 +699,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Yesterday.mp3",
-      "duration": 205
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Yesterday.mp3",
+      "duration": 205,
+      "language": "English"
     },
     {
       "id": 165,
@@ -646,9 +710,10 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://RestAPIpull.b-cdn.net/images/Imagine-Dragons.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Imagine%20Dragons%20%E2%80%92%20Zero.mp3",
-      "duration": 213
+      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20%E2%80%92%20Zero.mp3",
+      "duration": 213,
+      "language": "English"
     },
     {
       "id": 166,
@@ -656,9 +721,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20135.mp3",
-      "duration": 271
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20135.mp3",
+      "duration": 271,
+      "language": "English"
     },
     {
       "id": 167,
@@ -666,9 +732,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Above%20The%20Sky.mp3",
-      "duration": 230
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Above%20The%20Sky.mp3",
+      "duration": 230,
+      "language": "English"
     },
     {
       "id": 168,
@@ -676,9 +743,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20All%20Falls%20Down%20(feat.%20Noah%20Cyrus%20with%20Digital%20Farm%20Animals).mp3",
-      "duration": 220
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20All%20Falls%20Down%20(feat.%20Noah%20Cyrus%20with%20Digital%20Farm%20Animals).mp3",
+      "duration": 220,
+      "language": "English"
     },
     {
       "id": 169,
@@ -686,9 +754,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Alone.mp3",
-      "duration": 163
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Alone.mp3",
+      "duration": 163,
+      "language": "English"
     },
     {
       "id": 170,
@@ -696,9 +765,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Big%20Universe.mp3",
-      "duration": 239
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Big%20Universe.mp3",
+      "duration": 239,
+      "language": "English"
     },
     {
       "id": 171,
@@ -706,9 +776,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Burn%202.0.mp3",
-      "duration": 181
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Burn%202.0.mp3",
+      "duration": 181,
+      "language": "English"
     },
     {
       "id": 172,
@@ -716,9 +787,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Burn.mp3",
-      "duration": 178
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Burn.mp3",
+      "duration": 178,
+      "language": "English"
     },
     {
       "id": 173,
@@ -726,9 +798,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Celebrate.mp3",
-      "duration": 236
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Celebrate.mp3",
+      "duration": 236,
+      "language": "English"
     },
     {
       "id": 174,
@@ -736,9 +809,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Darkside%20(feat.%20Au%20Ra%20and%20Tomine%20Harket).mp3",
-      "duration": 239
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Darkside%20(feat.%20Au%20Ra%20and%20Tomine%20Harket).mp3",
+      "duration": 239,
+      "language": "English"
     },
     {
       "id": 175,
@@ -746,9 +820,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Dennis%202014%20[K-391%20Style].mp3",
-      "duration": 184
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Dennis%202014%20[K-391%20Style].mp3",
+      "duration": 184,
+      "language": "English"
     },
     {
       "id": 176,
@@ -756,9 +831,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Diamond%20Heart%20(feat.%20Sophia%20Somajo).mp3",
-      "duration": 218
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Diamond%20Heart%20(feat.%20Sophia%20Somajo).mp3",
+      "duration": 218,
+      "language": "English"
     },
     {
       "id": 177,
@@ -766,9 +842,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Different%20World%20feat.%20Sofia%20Carson,%20K-391%20&%20CORSAK%20(Lyric%20Video).mp3",
-      "duration": 222
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Different%20World%20feat.%20Sofia%20Carson,%20K-391%20&%20CORSAK%20(Lyric%20Video).mp3",
+      "duration": 222,
+      "language": "English"
     },
     {
       "id": 178,
@@ -776,9 +853,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Energy.mp3",
-      "duration": 216
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Energy.mp3",
+      "duration": 216,
+      "language": "English"
     },
     {
       "id": 179,
@@ -786,9 +864,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Fade%20%5BNCS%20Release%5D.mp3",
-      "duration": 250
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Fade%20%5BNCS%20Release%5D.mp3",
+      "duration": 250,
+      "language": "English"
     },
     {
       "id": 180,
@@ -796,9 +875,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Faded.mp3",
-      "duration": 212
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Faded.mp3",
+      "duration": 212,
+      "language": "English"
     },
     {
       "id": 181,
@@ -806,9 +886,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Flying%20Dreams.mp3",
-      "duration": 158
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Flying%20Dreams.mp3",
+      "duration": 158,
+      "language": "English"
     },
     {
       "id": 182,
@@ -816,9 +897,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Force%20%5BNCS%20Release%5D.mp3",
-      "duration": 241
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Force%20%5BNCS%20Release%5D.mp3",
+      "duration": 241,
+      "language": "English"
     },
     {
       "id": 183,
@@ -826,9 +908,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Golden%20Alley.mp3",
-      "duration": 270
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Golden%20Alley.mp3",
+      "duration": 270,
+      "language": "English"
     },
     {
       "id": 184,
@@ -836,9 +919,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Golden%20Gate%202016%20ft.%20Marvin%20Divine.mp3",
-      "duration": 161
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Golden%20Gate%202016%20ft.%20Marvin%20Divine.mp3",
+      "duration": 161,
+      "language": "English"
     },
     {
       "id": 185,
@@ -846,9 +930,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Hope.mp3",
-      "duration": 278
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Hope.mp3",
+      "duration": 278,
+      "language": "English"
     },
     {
       "id": 186,
@@ -856,9 +941,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20I%20Don't%20Wanna%20Go%20(Lyrics)%20ft.%20Julie%20Bergen.mp3",
-      "duration": 161
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20I%20Don't%20Wanna%20Go%20(Lyrics)%20ft.%20Julie%20Bergen.mp3",
+      "duration": 161,
+      "language": "English"
     },
     {
       "id": 187,
@@ -866,9 +952,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20ID%20(Heading%20Home)%20(Live%20at%20X%20Games%20Oslo).mp3",
-      "duration": 192
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20ID%20(Heading%20Home)%20(Live%20at%20X%20Games%20Oslo).mp3",
+      "duration": 192,
+      "language": "English"
     },
     {
       "id": 188,
@@ -876,9 +963,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Interlude%20Sunday(Official%20Full%20Song).mp3",
-      "duration": 127
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Interlude%20Sunday(Official%20Full%20Song).mp3",
+      "duration": 127,
+      "language": "English"
     },
     {
       "id": 189,
@@ -886,9 +974,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Intro.mp3",
-      "duration": 76
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Intro.mp3",
+      "duration": 76,
+      "language": "English"
     },
     {
       "id": 190,
@@ -896,9 +985,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Light%20Dreams.mp3",
-      "duration": 195
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Light%20Dreams.mp3",
+      "duration": 195,
+      "language": "English"
     },
     {
       "id": 191,
@@ -906,9 +996,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Long%20Road.mp3",
-      "duration": 167
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Long%20Road.mp3",
+      "duration": 167,
+      "language": "English"
     },
     {
       "id": 192,
@@ -916,9 +1007,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Memories.mp3",
-      "duration": 235
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Memories.mp3",
+      "duration": 235,
+      "language": "English"
     },
     {
       "id": 193,
@@ -926,9 +1018,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20New%20Heart.mp3",
-      "duration": 210
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20New%20Heart.mp3",
+      "duration": 210,
+      "language": "English"
     },
     {
       "id": 194,
@@ -936,9 +1029,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Perry%202013.mp3",
-      "duration": 277
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Perry%202013.mp3",
+      "duration": 277,
+      "language": "English"
     },
     {
       "id": 195,
@@ -946,9 +1040,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Relax.mp3",
-      "duration": 184
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Relax.mp3",
+      "duration": 184,
+      "language": "English"
     },
     {
       "id": 196,
@@ -956,9 +1051,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Sing%20Me%20To%20Sleep.mp3",
-      "duration": 191
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Sing%20Me%20To%20Sleep.mp3",
+      "duration": 191,
+      "language": "English"
     },
     {
       "id": 197,
@@ -966,9 +1062,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20Spectre%20[NCS%20Release].mp3",
-      "duration": 225
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20Spectre%20[NCS%20Release].mp3",
+      "duration": 225,
+      "language": "English"
     },
     {
       "id": 198,
@@ -976,9 +1073,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20The%20Raid.mp3",
-      "duration": 197
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20The%20Raid.mp3",
+      "duration": 197,
+      "language": "English"
     },
     {
       "id": 199,
@@ -986,9 +1084,10 @@
       "artist": "Alan Walker",
       "albumId": 1004,
       "artistId": 10004,
-      "image": "https://RestAPIpull.b-cdn.net/images/Alan%20Walker1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Alan%20Walker%20-%20The%20Spectre.mp3",
-      "duration": 206
+      "image": "https://Visnp.b-cdn.net/images/Alan%20Walker1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Alan%20Walker%20-%20The%20Spectre.mp3",
+      "duration": 206,
+      "language": "English"
     },
     {
       "id": 200,
@@ -996,9 +1095,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20all%20the%20good%20girls%20go%20to%20hell.mp3",
-      "duration": 221
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20all%20the%20good%20girls%20go%20to%20hell.mp3",
+      "duration": 221,
+      "language": "Hindi"
     },
     {
       "id": 201,
@@ -1006,9 +1106,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20bad%20guy.mp3",
-      "duration": 205
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20bad%20guy.mp3",
+      "duration": 205,
+      "language": "Hindi"
     },
     {
       "id": 202,
@@ -1016,9 +1117,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20Bellyache.mp3",
-      "duration": 210
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Bellyache.mp3",
+      "duration": 210,
+      "language": "Hindi"
     },
     {
       "id": 203,
@@ -1026,9 +1128,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20Bored.mp3",
-      "duration": 195
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Bored.mp3",
+      "duration": 195,
+      "language": "Hindi"
     },
     {
       "id": 204,
@@ -1036,9 +1139,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20bury%20a%20friend.mp3",
-      "duration": 212
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20bury%20a%20friend.mp3",
+      "duration": 212,
+      "language": "Hindi"
     },
     {
       "id": 205,
@@ -1046,9 +1150,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20everything%20i%20wanted.mp3",
-      "duration": 287
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20everything%20i%20wanted.mp3",
+      "duration": 287,
+      "language": "Hindi"
     },
     {
       "id": 206,
@@ -1056,9 +1161,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20hostage.mp3",
-      "duration": 234
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20hostage.mp3",
+      "duration": 234,
+      "language": "Hindi"
     },
     {
       "id": 207,
@@ -1066,9 +1172,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20idontwannabeyouanymore%20Vertical%20Video.mp3",
-      "duration": 204
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20idontwannabeyouanymore%20Vertical%20Video.mp3",
+      "duration": 204,
+      "language": "Hindi"
     },
     {
       "id": 208,
@@ -1076,9 +1183,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20Khalid%20lovely.mp3",
-      "duration": 200
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Khalid%20lovely.mp3",
+      "duration": 200,
+      "language": "Hindi"
     },
     {
       "id": 209,
@@ -1086,9 +1194,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20my%20future.mp3",
-      "duration": 229
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20my%20future.mp3",
+      "duration": 229,
+      "language": "Hindi"
     },
     {
       "id": 210,
@@ -1096,9 +1205,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20No%20Time%20To%20Die.mp3",
-      "duration": 239
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20No%20Time%20To%20Die.mp3",
+      "duration": 239,
+      "language": "Hindi"
     },
     {
       "id": 211,
@@ -1106,9 +1216,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20Ocean%20Eyes.mp3",
-      "duration": 200
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Ocean%20Eyes.mp3",
+      "duration": 200,
+      "language": "Hindi"
     },
     {
       "id": 212,
@@ -1116,9 +1227,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20ROSALÍA%20Lo%20Vas%20A%20Olvidar.mp3",
-      "duration": 232
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20ROSALÍA%20Lo%20Vas%20A%20Olvidar.mp3",
+      "duration": 232,
+      "language": "Hindi"
     },
     {
       "id": 213,
@@ -1126,9 +1238,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20Therefore%20I%20Am.mp3",
-      "duration": 298
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Therefore%20I%20Am.mp3",
+      "duration": 298,
+      "language": "Hindi"
     },
     {
       "id": 214,
@@ -1136,9 +1249,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20watch.mp3",
-      "duration": 199
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20watch.mp3",
+      "duration": 199,
+      "language": "Hindi"
     },
     {
       "id": 215,
@@ -1146,9 +1260,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20when%20the%20partys%20over.mp3",
-      "duration": 193
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20when%20the%20partys%20over.mp3",
+      "duration": 193,
+      "language": "Hindi"
     },
     {
       "id": 216,
@@ -1156,9 +1271,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20xanny.mp3",
-      "duration": 265
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20xanny.mp3",
+      "duration": 265,
+      "language": "Hindi"
     },
     {
       "id": 217,
@@ -1166,9 +1282,10 @@
       "artist": "Billie Eilish",
       "albumId": 1005,
       "artistId": 10005,
-      "image": "https://RestAPIpull.b-cdn.net/images/Billie%20Eilish.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Billie%20Eilish%20you%20should%20see%20me%20in%20a%20crown%20Vertical%20Video.mp3",
-      "duration": 180
+      "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20you%20should%20see%20me%20in%20a%20crown%20Vertical%20Video.mp3",
+      "duration": 180,
+      "language": "Hindi"
     },
     {
       "id": 218,
@@ -1176,9 +1293,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Coming%20Down.mp3",
-      "duration": 300
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Coming%20Down.mp3",
+      "duration": 300,
+      "language": "English"
     },
     {
       "id": 219,
@@ -1186,9 +1304,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20D.D..mp3",
-      "duration": 279
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20D.D..mp3",
+      "duration": 279,
+      "language": "English"
     },
     {
       "id": 220,
@@ -1196,9 +1315,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Echoes%20Of%20Silence.mp3",
-      "duration": 245
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Echoes%20Of%20Silence.mp3",
+      "duration": 245,
+      "language": "English"
     },
     {
       "id": 221,
@@ -1206,9 +1326,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20House%20Of%20Balloons%20%E2%81%84%20Glass%20Table%20Girls.mp3",
-      "duration": 412
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20House%20Of%20Balloons%20%E2%81%84%20Glass%20Table%20Girls.mp3",
+      "duration": 412,
+      "language": "English"
     },
     {
       "id": 222,
@@ -1216,9 +1337,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Initiation.mp3",
-      "duration": 265
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Initiation.mp3",
+      "duration": 265,
+      "language": "English"
     },
     {
       "id": 223,
@@ -1226,9 +1348,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Loft%20Music.mp3",
-      "duration": 368
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Loft%20Music.mp3",
+      "duration": 368,
+      "language": "English"
     },
     {
       "id": 224,
@@ -1236,9 +1359,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Montreal.mp3",
-      "duration": 255
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Montreal.mp3",
+      "duration": 255,
+      "language": "English"
     },
     {
       "id": 225,
@@ -1246,9 +1370,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Next.mp3",
-      "duration": 366
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Next.mp3",
+      "duration": 366,
+      "language": "English"
     },
     {
       "id": 226,
@@ -1256,9 +1381,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Outside.mp3",
-      "duration": 264
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Outside.mp3",
+      "duration": 264,
+      "language": "English"
     },
     {
       "id": 227,
@@ -1266,9 +1392,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Rolling%20Stone%20(Explicit).mp3",
-      "duration": 229
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Rolling%20Stone%20(Explicit).mp3",
+      "duration": 229,
+      "language": "English"
     },
     {
       "id": 228,
@@ -1276,9 +1403,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Same%20Old%20Song.mp3",
-      "duration": 317
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Same%20Old%20Song.mp3",
+      "duration": 317,
+      "language": "English"
     },
     {
       "id": 229,
@@ -1286,9 +1414,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20The%20Birds%20(Part%201).mp3",
-      "duration": 217
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20The%20Birds%20(Part%201).mp3",
+      "duration": 217,
+      "language": "English"
     },
     {
       "id": 230,
@@ -1296,9 +1425,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20The%20Fall.mp3",
-      "duration": 290
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20The%20Fall.mp3",
+      "duration": 290,
+      "language": "English"
     },
     {
       "id": 231,
@@ -1306,9 +1436,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20The%20Knowing%20(Official%20Video).mp3",
-      "duration": 465
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20The%20Knowing%20(Official%20Video).mp3",
+      "duration": 465,
+      "language": "English"
     },
     {
       "id": 232,
@@ -1316,9 +1447,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20The%20Morning.mp3",
-      "duration": 319
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20The%20Morning.mp3",
+      "duration": 319,
+      "language": "English"
     },
     {
       "id": 233,
@@ -1326,9 +1458,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20The%20Zone%20ft.%20Drake.mp3",
-      "duration": 315
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20The%20Zone%20ft.%20Drake.mp3",
+      "duration": 315,
+      "language": "English"
     },
     {
       "id": 234,
@@ -1336,9 +1469,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Twenty%20Eight%20(Explicit).mp3",
-      "duration": 269
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Twenty%20Eight%20(Explicit).mp3",
+      "duration": 269,
+      "language": "English"
     },
     {
       "id": 235,
@@ -1346,9 +1480,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/The%20Weeknd%20-%20Wicked%20Games%20(Explicit).mp3",
-      "duration": 281
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Wicked%20Games%20(Explicit).mp3",
+      "duration": 281,
+      "language": "English"
     },
     {
       "id": 236,
@@ -1356,9 +1491,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/01%20All%20of%20the%20Stars%20(Soundtrack%20Version).mp3",
-      "duration": 234
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/01%20All%20of%20the%20Stars%20(Soundtrack%20Version).mp3",
+      "duration": 234,
+      "language": "English"
     },
     {
       "id": 237,
@@ -1366,9 +1502,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/01%20Ed%20Sheeran%20One.mp3",
-      "duration": 252
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/01%20Ed%20Sheeran%20One.mp3",
+      "duration": 252,
+      "language": "English"
     },
     {
       "id": 238,
@@ -1376,9 +1513,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/01%20Shape%20of%20You%20(Galantis%20Remix).mp3",
-      "duration": 295
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/01%20Shape%20of%20You%20(Galantis%20Remix).mp3",
+      "duration": 295,
+      "language": "English"
     },
     {
       "id": 239,
@@ -1386,9 +1524,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/02%20Ed%20Sheeran%20Im%20a%20Mess.mp3",
-      "duration": 244
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/02%20Ed%20Sheeran%20Im%20a%20Mess.mp3",
+      "duration": 244,
+      "language": "English"
     },
     {
       "id": 240,
@@ -1396,9 +1535,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/03%20Ed%20Sheeran%20Sing.mp3",
-      "duration": 235
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/03%20Ed%20Sheeran%20Sing.mp3",
+      "duration": 235,
+      "language": "English"
     },
     {
       "id": 241,
@@ -1406,9 +1546,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/04%20Ed%20Sheeran%20Dont.mp3",
-      "duration": 219
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/04%20Ed%20Sheeran%20Dont.mp3",
+      "duration": 219,
+      "language": "English"
     },
     {
       "id": 242,
@@ -1416,9 +1557,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/05%20Ed%20Sheeran%20Nina.mp3",
-      "duration": 225
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/05%20Ed%20Sheeran%20Nina.mp3",
+      "duration": 225,
+      "language": "English"
     },
     {
       "id": 243,
@@ -1426,9 +1568,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/06%20Ed%20Sheeran%20Photograph.mp3",
-      "duration": 258
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/06%20Ed%20Sheeran%20Photograph.mp3",
+      "duration": 258,
+      "language": "English"
     },
     {
       "id": 244,
@@ -1436,9 +1579,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/07%20Ed%20Sheeran%20Bloodstream.mp3",
-      "duration": 300
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/07%20Ed%20Sheeran%20Bloodstream.mp3",
+      "duration": 300,
+      "language": "English"
     },
     {
       "id": 245,
@@ -1446,9 +1590,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/08%20Ed%20Sheeran%20Tenerife%20Sea.mp3",
-      "duration": 241
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/08%20Ed%20Sheeran%20Tenerife%20Sea.mp3",
+      "duration": 241,
+      "language": "English"
     },
     {
       "id": 246,
@@ -1456,9 +1601,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/09%20Ed%20Sheeran%20Runaway.mp3",
-      "duration": 205
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/09%20Ed%20Sheeran%20Runaway.mp3",
+      "duration": 205,
+      "language": "English"
     },
     {
       "id": 247,
@@ -1466,9 +1612,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/10%20Ed%20Sheeran%20The%20Man.mp3",
-      "duration": 250
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/10%20Ed%20Sheeran%20The%20Man.mp3",
+      "duration": 250,
+      "language": "English"
     },
     {
       "id": 248,
@@ -1476,9 +1623,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/11%20Ed%20Sheeran%20Thinking%20Out%20Loud.mp3",
-      "duration": 281
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/11%20Ed%20Sheeran%20Thinking%20Out%20Loud.mp3",
+      "duration": 281,
+      "language": "English"
     },
     {
       "id": 249,
@@ -1486,9 +1634,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/12%20Ed%20Sheeran%20Afire%20Love.mp3",
-      "duration": 314
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/12%20Ed%20Sheeran%20Afire%20Love.mp3",
+      "duration": 314,
+      "language": "English"
     },
     {
       "id": 250,
@@ -1496,9 +1645,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/13%20Ed%20Sheeran%20Take%20It%20Back.mp3",
-      "duration": 208
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/13%20Ed%20Sheeran%20Take%20It%20Back.mp3",
+      "duration": 208,
+      "language": "English"
     },
     {
       "id": 251,
@@ -1506,9 +1656,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/14%20Ed%20Sheeran%20Shirtsleeves.mp3",
-      "duration": 190
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/14%20Ed%20Sheeran%20Shirtsleeves.mp3",
+      "duration": 190,
+      "language": "English"
     },
     {
       "id": 252,
@@ -1516,9 +1667,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/15%20Ed%20Sheeran%20Even%20My%20Dad%20Does%20Sometimes.mp3",
-      "duration": 228
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/15%20Ed%20Sheeran%20Even%20My%20Dad%20Does%20Sometimes.mp3",
+      "duration": 228,
+      "language": "English"
     },
     {
       "id": 253,
@@ -1526,9 +1678,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/28%20Ed%20Sheeran%20I%20See%20Fire.mp3",
-      "duration": 300
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/28%20Ed%20Sheeran%20I%20See%20Fire.mp3",
+      "duration": 300,
+      "language": "English"
     },
     {
       "id": 254,
@@ -1536,9 +1689,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Barcelona%20Official%20Audio.mp3",
-      "duration": 191
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Barcelona%20Official%20Audio.mp3",
+      "duration": 191,
+      "language": "English"
     },
     {
       "id": 255,
@@ -1546,9 +1700,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Bibia%20Be%20Ye%20Ye.mp3",
-      "duration": 167
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Bibia%20Be%20Ye%20Ye.mp3",
+      "duration": 167,
+      "language": "English"
     },
     {
       "id": 256,
@@ -1556,9 +1711,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Castle%20On%20The%20Hill%20Official%20Video.mp3",
-      "duration": 288
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Castle%20On%20The%20Hill%20Official%20Video.mp3",
+      "duration": 288,
+      "language": "English"
     },
     {
       "id": 257,
@@ -1566,9 +1722,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Dive%20Music%20Video.mp3",
-      "duration": 238
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Dive%20Music%20Video.mp3",
+      "duration": 238,
+      "language": "English"
     },
     {
       "id": 258,
@@ -1576,9 +1733,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Drunk%20Official%20Video.mp3",
-      "duration": 228
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Drunk%20Official%20Video.mp3",
+      "duration": 228,
+      "language": "English"
     },
     {
       "id": 259,
@@ -1586,9 +1744,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Eraser%20Official%20Audio.mp3",
-      "duration": 223
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Eraser%20Official%20Audio.mp3",
+      "duration": 223,
+      "language": "English"
     },
     {
       "id": 260,
@@ -1596,9 +1755,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Galway%20Girl%20Official%20Video.mp3",
-      "duration": 199
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Galway%20Girl%20Official%20Video.mp3",
+      "duration": 199,
+      "language": "English"
     },
     {
       "id": 261,
@@ -1606,9 +1766,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Give%20Me%20Love%20Official%20Video.mp3",
-      "duration": 262
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Give%20Me%20Love%20Official%20Video.mp3",
+      "duration": 262,
+      "language": "English"
     },
     {
       "id": 262,
@@ -1616,9 +1777,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Happier%20(Music%20Video).mp3",
-      "duration": 234
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Happier%20(Music%20Video).mp3",
+      "duration": 234,
+      "language": "English"
     },
     {
       "id": 263,
@@ -1626,9 +1788,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Hearts%20Don't%20Break%20Round%20Here%20Official%20Audio.mp3",
-      "duration": 248
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Hearts%20Don't%20Break%20Round%20Here%20Official%20Audio.mp3",
+      "duration": 248,
+      "language": "English"
     },
     {
       "id": 264,
@@ -1636,9 +1799,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20How%20Would%20You%20Feel%20(Paean)%20Live.mp3",
-      "duration": 285
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20How%20Would%20You%20Feel%20(Paean)%20Live.mp3",
+      "duration": 285,
+      "language": "English"
     },
     {
       "id": 265,
@@ -1646,9 +1810,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Lego%20House%20Official%20Video.mp3",
-      "duration": 245
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Lego%20House%20Official%20Video.mp3",
+      "duration": 245,
+      "language": "English"
     },
     {
       "id": 266,
@@ -1656,9 +1821,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20Nancy%20Mulligan%20Official%20Audio.mp3",
-      "duration": 179
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20Nancy%20Mulligan%20Official%20Audio.mp3",
+      "duration": 179,
+      "language": "English"
     },
     {
       "id": 267,
@@ -1666,9 +1832,10 @@
       "artist": "Ed Sheeran",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ed%20Sheeran%20-%20You%20Need%20Me,%20I%20Don't%20Need%20You%20captured%20in%20The%20Live%20Room.mp3",
-      "duration": 684
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ed%20Sheeran%20-%20You%20Need%20Me,%20I%20Don't%20Need%20You%20captured%20in%20The%20Live%20Room.mp3",
+      "duration": 684,
+      "language": "English"
     },
     {
       "id": 268,
@@ -1676,9 +1843,10 @@
       "artist": "Eminem",
       "albumId": 1006,
       "artistId": 10006,
-      "image": "https://RestAPIpull.b-cdn.net/images/Ed%20Sheeran.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Eminem%20-%20River%20(Audio)%20ft.%20Ed%20Sheeran.mp3",
-      "duration": 222
+      "image": "https://Visnp.b-cdn.net/images/Ed%20Sheeran.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Eminem%20-%20River%20(Audio)%20ft.%20Ed%20Sheeran.mp3",
+      "duration": 222,
+      "language": "English"
     },
     {
       "id": 269,
@@ -1686,9 +1854,10 @@
       "artist": "Rosé",
       "albumId": 1007,
       "artistId": 10007,
-      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/01%20On%20The%20Ground.mp3",
-      "duration": 177
+      "image": "https://Visnp.b-cdn.net/images/ros%C3%A9.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/01%20On%20The%20Ground.mp3",
+      "duration": 177,
+      "language": "English"
     },
     {
       "id": 270,
@@ -1696,9 +1865,10 @@
       "artist": "Rosé",
       "albumId": 1007,
       "artistId": 10007,
-      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/02%20Gone.mp3",
-      "duration": 185
+      "image": "https://Visnp.b-cdn.net/images/ros%C3%A9.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/02%20Gone.mp3",
+      "duration": 185,
+      "language": "English"
     },
     {
       "id": 271,
@@ -1706,9 +1876,10 @@
       "artist": "Rosé",
       "albumId": 1007,
       "artistId": 10007,
-      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/03%20On%20The%20Ground%20%5BInstrumental%5D.mp3",
-      "duration": 177
+      "image": "https://Visnp.b-cdn.net/images/ros%C3%A9.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/03%20On%20The%20Ground%20%5BInstrumental%5D.mp3",
+      "duration": 177,
+      "language": "English"
     },
     {
       "id": 272,
@@ -1716,49 +1887,54 @@
       "artist": "Rosé",
       "albumId": 1007,
       "artistId": 10007,
-      "image": "https://RestAPIpull.b-cdn.net/images/ros%C3%A9.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/04%20Gone%20%5BInstrumental%5D.mp3",
-      "duration": 185
+      "image": "https://Visnp.b-cdn.net/images/ros%C3%A9.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/04%20Gone%20%5BInstrumental%5D.mp3",
+      "duration": 185,
+      "language": "English"
     },
     {
       "id": 273,
       "title": "Debut",
       "artist": "KATSEYE",
       "albumId": 1008,
-      "artistId": 10008,
-      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/KATSEYE%20'Debut'.mp3",
-      "duration": 123
+      "artistId": 1000,
+      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/KATSEYE%20'Debut'.mp3",
+      "duration": 123,
+      "language": "English"
     },
     {
       "id": 274,
       "title": "Touch",
       "artist": "KATSEYE",
       "albumId": 1008,
-      "artistId": 10008,
-      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/KATSEYE%20'Touch'.mp3",
-      "duration": 130
+      "artistId": 1000,
+      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/KATSEYE%20'Touch'.mp3",
+      "duration": 130,
+      "language": "English"
     },
     {
       "id": 275,
       "title": "My Way",
       "artist": "KATSEYE (캣츠아이)",
       "albumId": 1008,
-      "artistId": 10008,
-      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/KATSEYE%20(캣츠아이)%20My%20Way.mp3",
-      "duration": 169
+      "artistId": 1000,
+      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/KATSEYE%20(캣츠아이)%20My%20Way.mp3",
+      "duration": 169,
+      "language": "English"
     },
     {
       "id": 276,
       "title": "Tonight I Might",
       "artist": "KATSEYE (캣츠아이)",
       "albumId": 1008,
-      "artistId": 10008,
-      "image": "https://RestAPIpull.b-cdn.net/images/katseye.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/KATSEYE%20(캣츠아이)%20Tonight%20I%20Might.mp3",
-      "duration": 244
+      "artistId": 1000,
+      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/KATSEYE%20(캣츠아이)%20Tonight%20I%20Might.mp3",
+      "duration": 244,
+      "language": "English"
     },
     {
       "id": 277,
@@ -1766,9 +1942,10 @@
       "artist": "Lata Mangeshkar",
       "albumId": 1009,
       "artistId": 10009,
-      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20duniya%20hai%20%20156.mp3",
-      "duration": 190
+      "image": "https://Visnp.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Yeh%20duniya%20hai%20%20156.mp3",
+      "duration": 190,
+      "language": "Hindi"
     },
     {
       "id": 278,
@@ -1776,9 +1953,10 @@
       "artist": "Lata Mangeshkar",
       "albumId": 1009,
       "artistId": 10009,
-      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20Raatein157.mp3",
-      "duration": 318
+      "image": "https://Visnp.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Yeh%20Raatein157.mp3",
+      "duration": 318,
+      "language": "Hindi"
     },
     {
       "id": 279,
@@ -1786,9 +1964,10 @@
       "artist": "Lata Mangeshkar",
       "albumId": 1009,
       "artistId": 10009,
-      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20Shaam%20158.mp3",
-      "duration": 191
+      "image": "https://Visnp.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Yeh%20Shaam%20158.mp3",
+      "duration": 191,
+      "language": "Hindi"
     },
     {
       "id": 280,
@@ -1796,9 +1975,10 @@
       "artist": "Lata Mangeshkar",
       "albumId": 1009,
       "artistId": 10009,
-      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20Zindagi%20161.mp3",
-      "duration": 173
+      "image": "https://Visnp.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Yeh%20Zindagi%20161.mp3",
+      "duration": 173,
+      "language": "Hindi"
     },
     {
       "id": 281,
@@ -1806,9 +1986,10 @@
       "artist": "Lata Mangeshkar",
       "albumId": 1009,
       "artistId": 10009,
-      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Zara%20162.mp3",
-      "duration": 239
+      "image": "https://Visnp.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Zara%20162.mp3",
+      "duration": 239,
+      "language": "Hindi"
     },
     {
       "id": 282,
@@ -1816,9 +1997,10 @@
       "artist": "Lata Mangeshkar",
       "albumId": 1009,
       "artistId": 10009,
-      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Zara%20Thehar%20163.mp3",
-      "duration": 206
+      "image": "https://Visnp.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Zara%20Thehar%20163.mp3",
+      "duration": 206,
+      "language": "Hindi"
     },
     {
       "id": 283,
@@ -1826,9 +2008,10 @@
       "artist": "Lata Mangeshkar",
       "albumId": 1009,
       "artistId": 10009,
-      "image": "https://RestAPIpull.b-cdn.net/images/Lata%20Mangeshkar.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Zid%20Na%20Kar164.mp3",
-      "duration": 259
+      "image": "https://Visnp.b-cdn.net/images/Lata%20Mangeshkar.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Zid%20Na%20Kar164.mp3",
+      "duration": 259,
+      "language": "Hindi"
     },
     {
       "id": 284,
@@ -1836,9 +2019,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Aaj%20Phir%20Video%20Song.mp3",
-      "duration": 180
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Aaj%20Phir%20Video%20Song.mp3",
+      "duration": 180,
+      "language": "Hindi"
     },
     {
       "id": 285,
@@ -1846,9 +2030,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Aasan%20Nahin%20Yahan.mp3",
-      "duration": 238
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Aasan%20Nahin%20Yahan.mp3",
+      "duration": 238,
+      "language": "Hindi"
     },
     {
       "id": 286,
@@ -1856,9 +2041,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Aayat.mp3",
-      "duration": 253
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Aayat.mp3",
+      "duration": 253,
+      "language": "Hindi"
     },
     {
       "id": 287,
@@ -1866,9 +2052,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Ashq%20Na%20Ho.mp3",
-      "duration": 358
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Ashq%20Na%20Ho.mp3",
+      "duration": 358,
+      "language": "Hindi"
     },
     {
       "id": 288,
@@ -1876,9 +2063,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Baatein%20Ye%20Kabhi%20Na.mp3",
-      "duration": 255
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Baatein%20Ye%20Kabhi%20Na.mp3",
+      "duration": 255,
+      "language": "Hindi"
     },
     {
       "id": 289,
@@ -1886,9 +2074,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Chahun%20Main%20Ya%20Naa.mp3",
-      "duration": 240
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Chahun%20Main%20Ya%20Naa.mp3",
+      "duration": 240,
+      "language": "Hindi"
     },
     {
       "id": 290,
@@ -1896,9 +2085,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Chal%20Wahan%20Jaate%20Hain.mp3",
-      "duration": 326
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Chal%20Wahan%20Jaate%20Hain.mp3",
+      "duration": 326,
+      "language": "Hindi"
     },
     {
       "id": 291,
@@ -1906,9 +2096,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Daayre.mp3",
-      "duration": 320
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Daayre.mp3",
+      "duration": 320,
+      "language": "Hindi"
     },
     {
       "id": 292,
@@ -1916,9 +2107,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Dhuaan.mp3",
-      "duration": 220
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Dhuaan.mp3",
+      "duration": 220,
+      "language": "Hindi"
     },
     {
       "id": 293,
@@ -1926,9 +2118,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Dil%20cheez%20tujhe%20%20dedi%20f.mp3",
-      "duration": 271
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Dil%20cheez%20tujhe%20%20dedi%20f.mp3",
+      "duration": 271,
+      "language": "Hindi"
     },
     {
       "id": 294,
@@ -1936,9 +2129,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Gerua.mp3",
-      "duration": 287
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Gerua.mp3",
+      "duration": 287,
+      "language": "Hindi"
     },
     {
       "id": 295,
@@ -1946,9 +2140,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Hai%20Dil%20Ye%20Mera.mp3",
-      "duration": 312
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Hai%20Dil%20Ye%20Mera.mp3",
+      "duration": 312,
+      "language": "Hindi"
     },
     {
       "id": 296,
@@ -1956,9 +2151,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Haider.mp3",
-      "duration": 314
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Haider.mp3",
+      "duration": 314,
+      "language": "Hindi"
     },
     {
       "id": 297,
@@ -1966,9 +2162,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Hamdard.mp3",
-      "duration": 259
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Hamdard.mp3",
+      "duration": 259,
+      "language": "Hindi"
     },
     {
       "id": 298,
@@ -1976,9 +2173,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Heropanti.mp3",
-      "duration": 335
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Heropanti.mp3",
+      "duration": 335,
+      "language": "Hindi"
     },
     {
       "id": 299,
@@ -1986,9 +2184,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Janam%20Janam.mp3",
-      "duration": 183
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Janam%20Janam.mp3",
+      "duration": 183,
+      "language": "Hindi"
     },
     {
       "id": 300,
@@ -1996,9 +2195,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Jiya.mp3",
-      "duration": 280
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Jiya.mp3",
+      "duration": 280,
+      "language": "Hindi"
     },
     {
       "id": 301,
@@ -2006,9 +2206,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Khamoshiyan%20S.mp3",
-      "duration": 336
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Khamoshiyan%20S.mp3",
+      "duration": 336,
+      "language": "Hindi"
     },
     {
       "id": 302,
@@ -2016,9 +2217,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Khul%20Kabhi.mp3",
-      "duration": 384
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Khul%20Kabhi.mp3",
+      "duration": 384,
+      "language": "Hindi"
     },
     {
       "id": 303,
@@ -2026,9 +2228,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Kyun%20Hua.mp3",
-      "duration": 312
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Kyun%20Hua.mp3",
+      "duration": 312,
+      "language": "Hindi"
     },
     {
       "id": 304,
@@ -2036,9 +2239,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Main%20Dhoondne%20Ko%20Zamaane%20Mein%20%20Heartless.mp3",
-      "duration": 293
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Main%20Dhoondne%20Ko%20Zamaane%20Mein%20%20Heartless.mp3",
+      "duration": 293,
+      "language": "Hindi"
     },
     {
       "id": 305,
@@ -2046,9 +2250,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Main%20Hoon%20Deewana%20Tera.mp3",
-      "duration": 324
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Main%20Hoon%20Deewana%20Tera.mp3",
+      "duration": 324,
+      "language": "Hindi"
     },
     {
       "id": 306,
@@ -2056,9 +2261,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Main%20Tera%20Hero.mp3",
-      "duration": 250
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Main%20Tera%20Hero.mp3",
+      "duration": 250,
+      "language": "Hindi"
     },
     {
       "id": 307,
@@ -2066,9 +2272,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Manwa%20Laage.mp3",
-      "duration": 268
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Manwa%20Laage.mp3",
+      "duration": 268,
+      "language": "Hindi"
     },
     {
       "id": 308,
@@ -2076,9 +2283,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Mareez-E-Ishq.mp3",
-      "duration": 213
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Mareez-E-Ishq.mp3",
+      "duration": 213,
+      "language": "Hindi"
     },
     {
       "id": 309,
@@ -2086,9 +2294,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Muskurane.mp3",
-      "duration": 334
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Muskurane.mp3",
+      "duration": 334,
+      "language": "Hindi"
     },
     {
       "id": 310,
@@ -2096,9 +2305,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/O%20Soniye.mp3",
-      "duration": 263
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/O%20Soniye.mp3",
+      "duration": 263,
+      "language": "Hindi"
     },
     {
       "id": 311,
@@ -2106,9 +2316,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Rishton%20Ke%20Saare%20Manzar.mp3",
-      "duration": 321
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Rishton%20Ke%20Saare%20Manzar.mp3",
+      "duration": 321,
+      "language": "Hindi"
     },
     {
       "id": 312,
@@ -2116,9 +2327,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Saanson%20Ko.mp3",
-      "duration": 288
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Saanson%20Ko.mp3",
+      "duration": 288,
+      "language": "Hindi"
     },
     {
       "id": 313,
@@ -2126,9 +2338,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Saawali%20Si%20Raat.mp3",
-      "duration": 310
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Saawali%20Si%20Raat.mp3",
+      "duration": 310,
+      "language": "Hindi"
     },
     {
       "id": 314,
@@ -2136,9 +2349,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Sajde.mp3 ",
-      "duration": 180
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Sajde.mp3 ",
+      "duration": 180,
+      "language": "Hindi"
     },
     {
       "id": 315,
@@ -2146,9 +2360,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Samjhawan.mp3 ",
-      "duration": 265
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Samjhawan.mp3 ",
+      "duration": 265,
+      "language": "Hindi"
     },
     {
       "id": 316,
@@ -2156,9 +2371,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Sanam%20re.mp3",
-      "duration": 269
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Sanam%20re.mp3",
+      "duration": 269,
+      "language": "Hindi"
     },
     {
       "id": 317,
@@ -2166,9 +2382,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Saudebaazi.mp3",
-      "duration": 232
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Saudebaazi.mp3",
+      "duration": 232,
+      "language": "Hindi"
     },
     {
       "id": 318,
@@ -2176,9 +2393,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Sawan%20Aaya%20Hai.mp3",
-      "duration": 288
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Sawan%20Aaya%20Hai.mp3",
+      "duration": 288,
+      "language": "Hindi"
     },
     {
       "id": 319,
@@ -2186,9 +2404,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Singham%20Returns.mp3",
-      "duration": 291
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Singham%20Returns.mp3",
+      "duration": 291,
+      "language": "Hindi"
     },
     {
       "id": 320,
@@ -2196,9 +2415,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Soch%20na%20sake.mp3",
-      "duration": 281
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Soch%20na%20sake.mp3",
+      "duration": 281,
+      "language": "Hindi"
     },
     {
       "id": 321,
@@ -2206,9 +2426,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Sukoon%20mila.mp3",
-      "duration": 206
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Sukoon%20mila.mp3",
+      "duration": 206,
+      "language": "Hindi"
     },
     {
       "id": 322,
@@ -2216,9 +2437,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Suno%20Na%20Sangemarmar.mp3",
-      "duration": 198
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Suno%20Na%20Sangemarmar.mp3",
+      "duration": 198,
+      "language": "Hindi"
     },
     {
       "id": 323,
@@ -2226,9 +2448,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Taake%20Jhanke.mp3",
-      "duration": 290
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Taake%20Jhanke.mp3",
+      "duration": 290,
+      "language": "Hindi"
     },
     {
       "id": 324,
@@ -2236,9 +2459,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Tu%20Chale.mp3",
-      "duration": 292
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Tu%20Chale.mp3",
+      "duration": 292,
+      "language": "Hindi"
     },
     {
       "id": 325,
@@ -2246,9 +2470,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Tu%20Hi%20Hai%20Aashiqui.mp3",
-      "duration": 297
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Tu%20Hi%20Hai%20Aashiqui.mp3",
+      "duration": 297,
+      "language": "Hindi"
     },
     {
       "id": 326,
@@ -2256,9 +2481,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Tukur%20Tukur.mp3",
-      "duration": 271
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Tukur%20Tukur.mp3",
+      "duration": 271,
+      "language": "Hindi"
     },
     {
       "id": 327,
@@ -2266,9 +2492,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Tum%20Hi%20Ho.mp3",
-      "duration": 267
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Tum%20Hi%20Ho.mp3",
+      "duration": 267,
+      "language": "Hindi"
     },
     {
       "id": 328,
@@ -2276,9 +2503,10 @@
       "artist": "Arijit Singh",
       "albumId": 1010,
       "artistId": 10010,
-      "image": "https://RestAPIpull.b-cdn.net/images/Arijit%20Singh1.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Yeh%20Fitoor%20Mera.mp3",
-      "duration": 290
+      "image": "https://Visnp.b-cdn.net/images/Arijit%20Singh1.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Yeh%20Fitoor%20Mera.mp3",
+      "duration": 290,
+      "language": "Hindi"
     },
     {
       "id": 329,
@@ -2286,9 +2514,10 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://RestAPIpull.b-cdn.net/images/The%20Weeknd.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Valerie.mp3",
-      "duration": 286
+      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Valerie.mp3",
+      "duration": 286,
+      "language": "English"
     },
     {
       "id": 330,
@@ -2296,9 +2525,10 @@
       "artist": "Sonu Nigam",
       "albumId": 1011,
       "artistId": 10011,
-      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Aa%20Pukare%20Tujhe%20Ye%20Dil.mp3",
-      "duration": 226
+      "image": "https://Visnp.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Aa%20Pukare%20Tujhe%20Ye%20Dil.mp3",
+      "duration": 226,
+      "language": "Hindi"
     },
     {
       "id": 331,
@@ -2306,9 +2536,10 @@
       "artist": "Sonu Nigam",
       "albumId": 1011,
       "artistId": 10011,
-      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Aahun%20Aahun.mp3",
-      "duration": 181
+      "image": "https://Visnp.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Aahun%20Aahun.mp3",
+      "duration": 181,
+      "language": "Hindi"
     },
     {
       "id": 332,
@@ -2316,9 +2547,10 @@
       "artist": "Sonu Nigam",
       "albumId": 1011,
       "artistId": 10011,
-      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Aai%20Dil%20Mat%20Ro.mp3",
-      "duration": 395
+      "image": "https://Visnp.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Aai%20Dil%20Mat%20Ro.mp3",
+      "duration": 395,
+      "language": "Hindi"
     },
     {
       "id": 333,
@@ -2326,9 +2558,10 @@
       "artist": "Sonu Nigam",
       "albumId": 1011,
       "artistId": 10011,
-      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Aaja%20Nachle%20%20Konkona.mp3",
-      "duration": 258
+      "image": "https://Visnp.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Aaja%20Nachle%20%20Konkona.mp3",
+      "duration": 258,
+      "language": "Hindi"
     },
     {
       "id": 334,
@@ -2336,9 +2569,10 @@
       "artist": "Sonu Nigam",
       "albumId": 1011,
       "artistId": 10011,
-      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Aao.mp3",
-      "duration": 313
+      "image": "https://Visnp.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Aao.mp3",
+      "duration": 313,
+      "language": "Hindi"
     },
     {
       "id": 335,
@@ -2346,9 +2580,10 @@
       "artist": "Sonu Nigam",
       "albumId": 1011,
       "artistId": 10011,
-      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Abhi%20Saans%20Lene%20Ki.mp3",
-      "duration": 398
+      "image": "https://Visnp.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Abhi%20Saans%20Lene%20Ki.mp3",
+      "duration": 398,
+      "language": "Hindi"
     },
     {
       "id": 336,
@@ -2356,9 +2591,10 @@
       "artist": "Sonu Nigam",
       "albumId": 1011,
       "artistId": 10011,
-      "image": "https://RestAPIpull.b-cdn.net/images/Sonu%20Nigam.jpg",
-      "audio": "https://RestAPIpull.b-cdn.net/audio/Achha%20Sila%20Diya.mp3",
-      "duration": 308
+      "image": "https://Visnp.b-cdn.net/images/Sonu%20Nigam.jpg",
+      "audio": "https://Visnp.b-cdn.net/audio/Achha%20Sila%20Diya.mp3",
+      "duration": 308,
+      "language": "Hindi"
     }
   ]
 }
