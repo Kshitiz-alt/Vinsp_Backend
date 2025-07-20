@@ -1,10 +1,10 @@
-import { Request, Response } from 'express'
-import dotenv from "dotenv"
+import { Request, Response } from 'express';
+import dotenv from "dotenv";
 
-import songData from '../metadata/songs.json'
-import albumsData from '../metadata/albums.json'
-import artistData from '../metadata/artists.json'
-import { getPaginated } from './utils'
+import songData from '../metadata/songs.json';
+import albumsData from '../metadata/albums.json';
+import artistData from '../metadata/artists.json';
+import { albumMap, getCachedSongsWithAlbums, getPaginated } from './utils';
 
 dotenv.config();
 
@@ -16,7 +16,7 @@ const getLimiter = (req: Request, res: Response) => {
         page,
         limit
     }
-}
+};
 
 //to get global songs
 export const getSongs = (req: Request, res: Response) => {
@@ -63,18 +63,14 @@ export const getSongsbyID = (req: Request, res: Response) => {
 
 };
 
+
+
 //to get albums with their songs
 export const getAlbumswithSongs = (req: Request, res: Response) => {
     try {
 
         const { page, limit } = getLimiter(req, res)
-        const dataFromSongs = songData.song.map(song => {
-            const dataFromAlbum = albumsData.album.find(a => a.id === song.albumId)
-            return {
-                ...song,
-                album: dataFromAlbum || null
-            }
-        })
+        const dataFromSongs = getCachedSongsWithAlbums();
 
         const paginatedAlbum = getPaginated(dataFromSongs, page, limit)
         res.json({
@@ -87,48 +83,47 @@ export const getAlbumswithSongs = (req: Request, res: Response) => {
     } catch (err) {
         console.error('Error in getAlbumswithSongs', err)
     }
-}
+};
 
 //common function for search param 
-const getQueries = ({ title, artist, album, limit, query, language }: {
+const getQueries = ({ title, artist, album, query, language }: {
     title?: string,
     artist?: string,
     album?: string,
-    limit?: number,
     language?: string,
     query?: string
 }) => {
     let songs = songData.song;
     try {
         if (typeof title === 'string') {
-
-            songs = songs.filter(song => song.title.toLowerCase().includes(title.toLowerCase()))
+            const lowerQuery = title.toLowerCase();
+            songs = songs.filter(song => song.title.toLowerCase().includes(lowerQuery))
         };
 
         if (typeof artist === 'string') {
-            console.log("checking...", artist)
-            songs = songs.filter(song => song.artist.toLowerCase().includes(artist.toLowerCase()))
+            const lowerQuery = artist.toLowerCase();
+            songs = songs.filter(song => song.artist.toLowerCase().includes(lowerQuery))
         };
 
         if (typeof album === 'string') {
             songs = songs.filter(song => {
-                const object = albumsData.album.find(a => a.id === song.albumId)
+                const object = albumMap.get(song.albumId)
                 return object?.title.toLowerCase().includes(album.toLowerCase())
 
             })
         };
 
         if (typeof language === "string") {
-            songs = songs.filter(song => {
-                return song.language?.toLowerCase().includes(language.toLowerCase())
-            })
+            const lowerQuery = language.toLowerCase();
+            songs = songs.filter(song => song.language?.toLowerCase().includes(lowerQuery))
         }
+
 
 
         if (typeof query === 'string') {
             const lowerQuery = query.toLowerCase();
             songs = songs.filter(song => {
-                const album = albumsData.album.find(a => a.id === song.albumId);
+                const album = albumMap.get(song.albumId);
                 return (
                     song.title.toLowerCase().includes(lowerQuery) ||
                     song.artist.toLowerCase().includes(lowerQuery) ||
@@ -138,16 +133,13 @@ const getQueries = ({ title, artist, album, limit, query, language }: {
                 );
             });
         };
-        if (typeof limit === 'number' && !isNaN(limit) && limit > 0) {
-            songs = songs.slice(0, Number(limit))
-        };
         return songs;
     } catch (err) {
         console.error('Error in getSearchParams', err);
         return [];
     }
 
-}
+};
 
 export const getSearchParams = (req: Request, res: Response) => {
     try {
@@ -160,8 +152,8 @@ export const getSearchParams = (req: Request, res: Response) => {
             query: query as string,
             // limit: limit && !isNaN(Number(limit)) ? Number(limit) : undefined
         });
+        const paginatedSearch = getPaginated(songs, page, limit)
 
-        const paginatedSearch = getPaginated(songs, page,limit)
         res.json({
             page,
             limit,
@@ -181,10 +173,19 @@ export const getSearchArtistsParams = (req: Request, res: Response) => {
         const { artist, query } = req.query;
         const { page, limit } = getLimiter(req, res)
 
-        const searchedArtist = (artist || query || "").toString().toLowerCase();
+        const searchedArtist = (artist || query || "").toString().trim().toLowerCase();
+
+        // if (!searchedArtist) {
+        //     return ({
+        //         page,
+        //         limit,
+        //         total: 0,
+        //         result: []
+        //     });
+        // }
 
         const matchedArtists = artistData.artist.filter(a => a.title.toLowerCase().includes(searchedArtist))
-        const paginatedArtist = getPaginated(matchedArtists, page , limit)
+        const paginatedArtist = getPaginated(matchedArtists, page, limit)
         res.json({
             page,
             limit,
@@ -206,10 +207,9 @@ export const getSearchSongsParams = (req: Request, res: Response) => {
         const songs = getQueries({
             title: title as string,
             query: query as string,
-            // limit: limit && !isNaN(Number(limit)) ? Number(limit) : undefined
         });
 
-        const paginatedSongs = getPaginated(songs, page,limit)
+        const paginatedSongs = getPaginated(songs, page, limit)
         res.json({
             page,
             limit,
@@ -242,7 +242,7 @@ export const getSearchAlbumsParams = (req: Request, res: Response) => {
             .map(id => albumsData.album.find(a => a.id === id))
             .filter(Boolean)
 
-        const paginatedAlbums = getPaginated(matchedAlbums, limit, page)
+        const paginatedAlbums = getPaginated(matchedAlbums,page,limit)
 
         res.json({
             page,
@@ -299,7 +299,7 @@ export const getArtistsbyID = (req: Request, res: Response) => {
         console.error('error in getArtistsbyID', err)
 
     }
-}
+};
 export const getArtistsSongsbyID = (req: Request, res: Response) => {
     try {
         const artistId = Number(req.params.artistId);
