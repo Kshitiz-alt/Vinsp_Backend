@@ -14,7 +14,7 @@
       "id": 10002,
       "title": "The Weeknd",
       "genre": "Alternative R&B",
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/The%20Weeknd.jpg",
       "songs": [
         116, 117, 118, 119, 120, 121, 122, 123, 124, 218, 219, 220, 221, 222,
         223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235
@@ -24,7 +24,7 @@
       "id": 10003,
       "title": "Imagine Dragons",
       "genre": "Alternative rock",
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Imagine-Dragons.jpg",
       "songs": [
         125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138,
         139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152,
@@ -74,7 +74,7 @@
       "id": 10008,
       "title": "Katseye",
       "genre": "Contemporary R&B",
-      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "image": "https://Visnp.b-cdn.net/images/katseye/katseye.jpg",
       "songs": [273, 274, 275, 276]
     },
     {

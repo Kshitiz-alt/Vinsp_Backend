@@ -7,6 +7,7 @@ import artistData from '../metadata/artists.json'
 
 dotenv.config();
 
+//to get global songs
 export const getSongs = (req: Request, res: Response) => {
     try {
         const baseUrl = process.env.BUNNY_CDN;
@@ -23,6 +24,7 @@ export const getSongs = (req: Request, res: Response) => {
     }
 };
 
+//to get songs by their Ids
 export const getSongsbyID = (req: Request, res: Response) => {
     try {
         const id = Number(req.params.id);
@@ -40,8 +42,7 @@ export const getSongsbyID = (req: Request, res: Response) => {
 
 };
 
-
-
+//to get albums with their songs
 export const getAlbumswithSongs = (req: Request, res: Response) => {
     try {
 
@@ -59,11 +60,13 @@ export const getAlbumswithSongs = (req: Request, res: Response) => {
     }
 }
 
-const getQueries = ({ title, artist, album, limit, query }: {
+//common function for search param 
+const getQueries = ({ title, artist, album, limit, query , language}: {
     title?: string,
     artist?: string,
     album?: string,
     limit?: number,
+    language?:string,
     query?: string
 }) => {
     let songs = songData.song;
@@ -86,6 +89,13 @@ const getQueries = ({ title, artist, album, limit, query }: {
             })
         };
 
+        if(typeof language === "string"){
+            songs = songs.filter(song => {
+                const dataOfLang = songData.song.find(l => l.language === song.language)
+                return dataOfLang?.language.toLowerCase().includes(language.toLowerCase())
+            })
+        }
+
 
         if (typeof query === 'string') {
             const lowerQuery = query.toLowerCase();
@@ -94,7 +104,9 @@ const getQueries = ({ title, artist, album, limit, query }: {
                 return (
                     song.title.toLowerCase().includes(lowerQuery) ||
                     song.artist.toLowerCase().includes(lowerQuery) ||
-                    album?.title.toLowerCase().includes(lowerQuery)
+                    album?.title.toLowerCase().includes(lowerQuery) ||
+                    song.language.toLowerCase().includes(lowerQuery)
+                    
                 );
             });
         };

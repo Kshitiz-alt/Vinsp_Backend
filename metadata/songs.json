@@ -171,7 +171,7 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/Gone%20(Explicit).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Gone%20(Explicit).mp3",
       "duration": 486,
       "language": "English"
@@ -182,7 +182,7 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/Heaven%20Or%20Las%20Vegas.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Heaven%20Or%20Las%20Vegas.mp3",
       "duration": 353,
       "language": "English"
@@ -193,18 +193,18 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/High%20For%20This(The%20Weeknd).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/High%20For%20This.mp3",
       "duration": 247,
       "language": "English"
     },
     {
       "id": 119,
-      "title": "Life Of The Party",
+      "title": "Life Of The Party ",
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/Life%20Of%20The%20Party(The%20Weeknd).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Life%20Of%20The%20Party.mp3",
       "duration": 296,
       "language": "English"
@@ -215,7 +215,7 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/Lonely%20Star%20(Explicit)(The%20Weeknd).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Lonely%20Star%20(Explicit).mp3",
       "duration": 349,
       "language": "English"
@@ -226,7 +226,7 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/The%20Birds%20Pt.%202%20(Explicit)(The%20Weeknd).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/The%20Birds%20Pt.%202%20(Explicit).mp3",
       "duration": 350,
       "language": "English"
@@ -237,7 +237,7 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/The%20Party%20%26%20The%20After%20Party%20(Explicit)(The%20Weeknd).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/The%20Party%20&amp;%20The%20After%20Party%20(Explicit).mp3",
       "duration": 459,
       "language": "English"
@@ -248,7 +248,7 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/The%20Weeknd%20-%20Coming%20Down(The%20Weeknd).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20Coming%20Down.mp3",
       "duration": 300,
       "language": "English"
@@ -259,7 +259,7 @@
       "artist": "The Weeknd",
       "albumId": 1002,
       "artistId": 10002,
-      "image": "https://Visnp.b-cdn.net/images/The%20Weeknd.jpg",
+      "image": "https://Visnp.b-cdn.net/images/theweekend/The%20Weeknd%20-%20D.D.(The%20Weeknd).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/The%20Weeknd%20-%20D.D..mp3",
       "duration": 279,
       "language": "English"
@@ -270,7 +270,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Wrecked(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Wrecked.mp3",
       "duration": 240,
       "language": "English"
@@ -281,7 +281,7 @@
       "artist": "Imagine Dragons, JID",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Enemy(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20_JID%20-%20Enemy.mp3",
       "duration": 170,
       "language": "English"
@@ -292,7 +292,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Amsterdam(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Amsterdam.mp3",
       "duration": 242,
       "language": "English"
@@ -303,7 +303,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Believer(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Believer.mp3",
       "duration": 216,
       "language": "English"
@@ -314,7 +314,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Birds(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Birds.mp3",
       "duration": 218,
       "language": "English"
@@ -325,7 +325,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Bleeding%20Out(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Bleeding%20Out.mp3",
       "duration": 221,
       "language": "English"
@@ -336,7 +336,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Boomerang(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Boomerang.mp3",
       "duration": 187,
       "language": "English"
@@ -347,7 +347,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Bullet%20In%20A%20Gun(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Bullet%20In%20A%20Gun.mp3",
       "duration": 205,
       "language": "English"
@@ -358,7 +358,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Burn%20Out(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Burn%20Out.mp3",
       "duration": 275,
       "language": "English"
@@ -369,7 +369,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Cool%20Out(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Cool%20Out.mp3",
       "duration": 217,
       "language": "English"
@@ -380,7 +380,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Dancing%20In%20The%20Dark(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Dancing%20In%20The%20Dark.mp3",
       "duration": 233,
       "language": "English"
@@ -391,7 +391,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Demons(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Demons.mp3",
       "duration": 175,
       "language": "English"
@@ -402,7 +402,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Digital(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Digital.mp3",
       "duration": 201,
       "language": "English"
@@ -413,7 +413,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Follow%20You(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Follow%20You.mp3",
       "duration": 175,
       "language": "English"
@@ -424,7 +424,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Gold(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Gold.mp3",
       "duration": 216,
       "language": "English"
@@ -435,7 +435,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Hear%20Me(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Hear%20Me.mp3",
       "duration": 232,
       "language": "English"
@@ -446,7 +446,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/I%20Bet%20My%20Life(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20I%20Bet%20My%20Life.mp3",
       "duration": 192,
       "language": "English"
@@ -457,7 +457,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/I'll%20Make%20It%20Up%20To%20You(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20I'll%20Make%20It%20Up%20To%20You.mp3",
       "duration": 358,
       "language": "English"
@@ -468,7 +468,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/I'll%20Make%20It%20Up%20To%20You(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20It's%20Time.mp3",
       "duration": 242,
       "language": "English"
@@ -479,7 +479,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Love(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Love.mp3",
       "duration": 164,
       "language": "English"
@@ -490,7 +490,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Machine(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Machine.mp3",
       "duration": 181,
       "language": "English"
@@ -501,7 +501,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Mouth%20Of%20The%20River(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Mouth%20Of%20The%20River.mp3",
       "duration": 221,
       "language": "English"
@@ -512,7 +512,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Natural(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Natural.mp3",
       "duration": 190,
       "language": "English"
@@ -523,7 +523,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Next%20To%20Me(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Next%20To%20Me.mp3",
       "duration": 230,
       "language": "English"
@@ -534,7 +534,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/On%20Top%20Of%20The%20World(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20On%20Top%20Of%20The%20World.mp3",
       "duration": 189,
       "language": "English"
@@ -545,7 +545,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Only(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Only.mp3",
       "duration": 182,
       "language": "English"
@@ -556,7 +556,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Radioactive(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Radioactive.mp3",
       "duration": 186,
       "language": "English"
@@ -567,7 +567,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Real%20Life(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Real%20Life.mp3",
       "duration": 247,
       "language": "English"
@@ -578,7 +578,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Rise%20Up(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Rise%20Up.mp3",
       "duration": 231,
       "language": "English"
@@ -589,7 +589,7 @@
       "artist": "Imagine Dragons",
       "albumId": 1003,
       "artistId": 10003,
-      "image": "https://Visnp.b-cdn.net/images/Imagine-Dragons.jpg",
+      "image": "https://Visnp.b-cdn.net/images/imagineDragons/Shots(Imagine%20Dragons).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/14%20Imagine%20Dragons%20-%20Shots.mp3",
       "duration": 232,
       "language": "English"
@@ -1098,7 +1098,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20all%20the%20good%20girls%20go%20to%20hell.mp3",
       "duration": 221,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 201,
@@ -1109,7 +1109,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20bad%20guy.mp3",
       "duration": 205,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 202,
@@ -1120,18 +1120,18 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Bellyache.mp3",
       "duration": 210,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 203,
       "title": "Bored",
-      "artist": "Billie Eilish",
+      "artist": "Billie Eilish",  
       "albumId": 1005,
       "artistId": 10005,
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Bored.mp3",
       "duration": 195,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 204,
@@ -1142,7 +1142,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20bury%20a%20friend.mp3",
       "duration": 212,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 205,
@@ -1153,7 +1153,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20everything%20i%20wanted.mp3",
       "duration": 287,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 206,
@@ -1164,7 +1164,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20hostage.mp3",
       "duration": 234,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 207,
@@ -1175,7 +1175,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20idontwannabeyouanymore%20Vertical%20Video.mp3",
       "duration": 204,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 208,
@@ -1186,7 +1186,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Khalid%20lovely.mp3",
       "duration": 200,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 209,
@@ -1197,7 +1197,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20my%20future.mp3",
       "duration": 229,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 210,
@@ -1208,7 +1208,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20No%20Time%20To%20Die.mp3",
       "duration": 239,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 211,
@@ -1219,7 +1219,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Ocean%20Eyes.mp3",
       "duration": 200,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 212,
@@ -1230,7 +1230,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20ROSALÍA%20Lo%20Vas%20A%20Olvidar.mp3",
       "duration": 232,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 213,
@@ -1241,7 +1241,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20Therefore%20I%20Am.mp3",
       "duration": 298,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 214,
@@ -1252,7 +1252,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20watch.mp3",
       "duration": 199,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 215,
@@ -1263,7 +1263,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20when%20the%20partys%20over.mp3",
       "duration": 193,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 216,
@@ -1274,7 +1274,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20xanny.mp3",
       "duration": 265,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 217,
@@ -1285,7 +1285,7 @@
       "image": "https://Visnp.b-cdn.net/images/Billie%20Eilish.jpg",
       "audio": "https://Visnp.b-cdn.net/audio/Billie%20Eilish%20you%20should%20see%20me%20in%20a%20crown%20Vertical%20Video.mp3",
       "duration": 180,
-      "language": "Hindi"
+      "language": "English"
     },
     {
       "id": 218,
@@ -1898,7 +1898,7 @@
       "artist": "KATSEYE",
       "albumId": 1008,
       "artistId": 1000,
-      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "image": "https://Visnp.b-cdn.net/images/katseye/Debut(katseye).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/KATSEYE%20'Debut'.mp3",
       "duration": 123,
       "language": "English"
@@ -1909,7 +1909,7 @@
       "artist": "KATSEYE",
       "albumId": 1008,
       "artistId": 1000,
-      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "image": "https://Visnp.b-cdn.net/images/katseye/Touch(katseye).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/KATSEYE%20'Touch'.mp3",
       "duration": 130,
       "language": "English"
@@ -1920,7 +1920,7 @@
       "artist": "KATSEYE (캣츠아이)",
       "albumId": 1008,
       "artistId": 1000,
-      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "image": "https://Visnp.b-cdn.net/images/katseye/My%20Way(katseye).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/KATSEYE%20(캣츠아이)%20My%20Way.mp3",
       "duration": 169,
       "language": "English"
@@ -1931,7 +1931,7 @@
       "artist": "KATSEYE (캣츠아이)",
       "albumId": 1008,
       "artistId": 1000,
-      "image": "https://Visnp.b-cdn.net/images/katseye.jpg",
+      "image": "https://Visnp.b-cdn.net/images/katseye/Tonight%20I%20Might(katseye).jpg",
       "audio": "https://Visnp.b-cdn.net/audio/KATSEYE%20(캣츠아이)%20Tonight%20I%20Might.mp3",
       "duration": 244,
       "language": "English"
