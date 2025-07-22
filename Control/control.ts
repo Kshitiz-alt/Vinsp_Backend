@@ -1,10 +1,16 @@
 import { Request, Response } from 'express';
 import dotenv from "dotenv";
+import cliProgress from "cli-progress";
+import path from 'path';
+import fs from 'fs/promises';
 
 import songData from '../metadata/songs.json';
 import albumsData from '../metadata/albums.json';
 import artistData from '../metadata/artists.json';
-import { albumMap, getCachedSongsWithAlbums, getPaginated } from './utils';
+import { albumMap, getCachedSongsWithAlbums } from './utils/caching';
+import { getPaginated } from './utils/pagination'
+import { getLyrics } from './utils/lyrics';
+
 
 dotenv.config();
 
@@ -242,7 +248,7 @@ export const getSearchAlbumsParams = (req: Request, res: Response) => {
             .map(id => albumsData.album.find(a => a.id === id))
             .filter(Boolean)
 
-        const paginatedAlbums = getPaginated(matchedAlbums,page,limit)
+        const paginatedAlbums = getPaginated(matchedAlbums, page, limit)
 
         res.json({
             page,
@@ -325,6 +331,8 @@ export const getArtistsSongsbyID = (req: Request, res: Response) => {
 
 export const getAlbumSongsbyID = (req: Request, res: Response) => {
     try {
+
+        const {page, limit} = getLimiter(req,res)
         const albumId = Number(req.params.albumId);
         if (isNaN(albumId) || !albumId) {
             res.status(400).json({ message: 'invalid AlbumID' })
@@ -333,11 +341,15 @@ export const getAlbumSongsbyID = (req: Request, res: Response) => {
 
         const album = albumsData.album.find(a => a.id === albumId);
         const songs = songData.song.filter(s => s.albumId === albumId)
+        const paginatedSongs = getPaginated(songs,page,limit)
 
 
         res.json({
+            page,
+            limit,
             album,
-            songs
+            total:songs.length,
+            result:paginatedSongs
         })
     } catch (err) {
         console.error('Error in getAlbumsbyID', err)
@@ -346,3 +358,44 @@ export const getAlbumSongsbyID = (req: Request, res: Response) => {
     }
 };
 
+const sleep = (ms: number) => new Promise(res => setTimeout(res, ms));
+const injectLyrics = async () => {
+    const data = [];
+    const total = songData.song.length;
+
+
+    const bar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
+    bar.start(total, 0);
+    
+
+    for (const song of songData.song) {
+        try {
+
+            const lyrics = await getLyrics(song.artist, song.title);
+            data.push({
+                ...song,
+                lyrics: lyrics
+            })
+
+            bar.update(data.length);
+            
+        } catch (err: any) {
+            console.error(err.message)
+            data.push({
+                ...song,
+                lyrics: "Lyrics not available",
+            });
+            bar.update(data.length);
+        }
+        await sleep(1500);
+    }
+    bar.stop()
+    const output = path.join(__dirname, '../metadata/songs.json');
+    await fs.writeFile(output, JSON.stringify(data, null, 2))
+}
+
+if (require.main === module) {
+    injectLyrics().then(() => {
+        console.log("✅ Lyrics injection complete!");
+    }).catch(console.error);
+}
