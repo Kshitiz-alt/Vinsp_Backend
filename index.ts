@@ -1,6 +1,6 @@
-import express from 'express';
+import express, { Request } from 'express';
 import 'dotenv/config';
-
+import helmet from 'helmet'
 import cors from 'cors'
 import zip from './routes/zipFold';
 import SongsRoutes from './routes/SongRoutes';
@@ -11,6 +11,7 @@ import ArtistRoute from './routes/ArtistsRoutes';
 const app = express();
 
 const allowedOrigins = process.env.FRONTEND_URLS?.split(',') || []
+
 
 app.use(cors({
   origin: function (origin, callback) {
@@ -25,6 +26,7 @@ app.use(cors({
 }));
 // app.use(cors())
 
+app.disable('x-powered-by')
 const port = 5000;
 
 app.use(express.json());

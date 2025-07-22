@@ -23,7 +23,8 @@
     "cli-progress": "^3.12.0",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "helmet": "^8.1.0"
   },
   "devDependencies": {
     "@types/cli-progress": "^3.11.6",
