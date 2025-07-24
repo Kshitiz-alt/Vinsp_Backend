@@ -12,7 +12,7 @@ const AlbumRoutes_1 = __importDefault(require("./routes/AlbumRoutes"));
 const SearchRoutes_1 = __importDefault(require("./routes/SearchRoutes"));
 const ArtistsRoutes_1 = __importDefault(require("./routes/ArtistsRoutes"));
 const app = (0, express_1.default)();
-const allowedOrigins = process.env.FRONTEND_URL?.split(',') || [];
+const allowedOrigins = process.env.FRONTEND_URLS?.split(',') || [];
 app.use((0, cors_1.default)({
     origin: function (origin, callback) {
         if (!origin || allowedOrigins.includes(origin)) {
@@ -26,6 +26,7 @@ app.use((0, cors_1.default)({
     credentials: true
 }));
 // app.use(cors())
+app.disable('x-powered-by');
 const port = 5000;
 app.use(express_1.default.json());
 app.use('/api/search', SearchRoutes_1.default);
