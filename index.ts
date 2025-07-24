@@ -25,7 +25,6 @@ app.use(cors({
   credentials: true
 }));
 // app.use(cors())
-
 app.disable('x-powered-by')
 const port = 5000;
 
