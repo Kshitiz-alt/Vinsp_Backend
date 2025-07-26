@@ -221,7 +221,7 @@ export const getSearchArtistsParams = async(req: Request, res: Response) => {
             [`%${searchedArtist}%`, limit, offset]
         );
 
-         const songsWithURL = dataQuery.rows.map(artist => ({
+         const artistWithURL = dataQuery.rows.map(artist => ({
             ...artist,
             image:`${baseUrl}/${artist.image}`,
         }));
@@ -230,7 +230,7 @@ export const getSearchArtistsParams = async(req: Request, res: Response) => {
             page,
             limit,
             total, 
-            result: songsWithURL
+            result: artistWithURL
         });
     } catch (err) {
         console.error('Error in getSearchParams', err);
@@ -357,20 +357,18 @@ export const getAlbumsbyID = async(req: Request, res: Response) => {
 
          albumRows.image = `${baseUrl}/${albumRows.image}`;
 
-        const songsWithUrls = songRows.map(song => ({
+        const albumWithUrls = songRows.map(song => ({
             ...song,
             image: `${baseUrl}/${song.image}`,
             audio: `${baseUrl}/${song.audio}`
         }));
         res.json({
             album,
-            songs:songsWithUrls
+            songs:albumWithUrls
         })
         
     } catch (err) {
         console.error('Error in getAlbumsbyID', err)
-        // res.status(500).json({ message: 'Internal server error' });
-
     }
 };
 
