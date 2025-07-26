@@ -221,11 +221,16 @@ export const getSearchArtistsParams = async(req: Request, res: Response) => {
             [`%${searchedArtist}%`, limit, offset]
         );
 
+         const songsWithURL = dataQuery.rows.map(artist => ({
+            ...artist,
+            image:`${baseUrl}/${artist.image}`,
+        }));
+
         res.json({
             page,
             limit,
             total, 
-            result: dataQuery.rows
+            result: songsWithURL
         });
     } catch (err) {
         console.error('Error in getSearchParams', err);
