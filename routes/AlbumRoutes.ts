@@ -9,5 +9,4 @@ AlbumRoutes.get('/:albumId',getAlbumsbyID);
 AlbumRoutes.get('/:albumId/songs',getAlbumSongsbyID)
 AlbumRoutes.get('/',getAlbumswithSongs);
 
-
 export default AlbumRoutes;

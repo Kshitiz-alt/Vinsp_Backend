@@ -42,7 +42,6 @@ export const getSongs = async(req: Request, res: Response) => {
             image:`${baseUrl}/${song.image}`,
             audio: `${baseUrl}/${song.audio}`
         }));
-   
 
         res.json({
             page,

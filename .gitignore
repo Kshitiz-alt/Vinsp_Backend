@@ -9,8 +9,10 @@ lerna-debug.log*
 
 node_modules
 dist-ssr
-.env
-metadata
+
+
+#db_dump
+clean_dump.sql
 
 # Editor directories and files
 .vscode/*
