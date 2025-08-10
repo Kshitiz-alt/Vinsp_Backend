@@ -2,7 +2,7 @@ import axios from "axios";
 import dotenv from 'dotenv'
 import * as cheerio from "cheerio";
 
-dotenv.config()
+dotenv.config();
 
 
 const geniusToken = process.env.GENIUS_ACCESS_TOKEN;
